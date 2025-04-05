@@ -20,7 +20,7 @@ Demais diretrizes constam no Moodle.
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1039573  | Larissa Stéfane Barboza Santos |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
