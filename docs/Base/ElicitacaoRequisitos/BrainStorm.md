@@ -32,7 +32,16 @@ Posteriormente, as ideias surgidas na criação do mapa mental foram organizadas
 
 Abaixo, há o mapa mental criado:
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<div align="center">
+    Figura 1: Mapa Mental Brainstorming
+    <br>
+    <img src="https://github.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/blob/main/docs/Base/Imagens/BrainstormTeste.png?raw=true">
+    <br>
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+    <br>
+</div>
+
+**Observação**: Para poder ler e analisar o mapa mental com todos os seus detalhes, baixe a imagem ao apertar na imagem o botão direito.
 
 ##  Quadro de Insights
 
@@ -41,10 +50,11 @@ Para organizar os principais tópicos elencados no mapa mental, o quadro abaixo 
 <div align="center">
     Figura 1: Mapa Mental Brainstorming
     <br>
-    <img src="https://github.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/blob/main/docs/Base/Imagens/BrainstormTeste.png?raw=true">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/QuadroInsights(BrainStorming).jpg">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
+</div>
 
 ## Requisitos Elicitados
 
