@@ -38,7 +38,13 @@ Abaixo, há o mapa mental criado:
 
 Para organizar os principais tópicos elencados no mapa mental, o quadro abaixo foi desenvolvido com o objetivo de agrupar as ideias de forma visual e temática, o que facilita a identificação de padrões, de oportunidades e de possíveis direções para o desenvolvimento da **Galáxia Conectada**.
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+<div align="center">
+    Figura 1: Mapa Mental Brainstorming
+    <br>
+    <img src="https://github.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/blob/main/docs/Base/Imagens/BrainstormTeste.png?raw=true">
+    <br>
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+    <br>
 
 ## Requisitos Elicitados
 
