@@ -63,25 +63,32 @@ Após o brainstorming, foi possível elicitar alguns requisitos iniciais para o 
 <details>
   <summary size="20"><b> Requisitos funcionais elicitados com o brainstorming </b></summary> 
 
-| Nº  | Requisito                                                   | Tipo           | Objetivo                                                                                              |
-|-----|-------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------|
-| 01  | Apresentação de Conteúdo Teórico Multiformato               | Funcional      | Oferecer textos, imagens, vídeos e animações para facilitar a compreensão dos conceitos astronômicos. |
-| 02  | Simulações e Experimentos Interativos                       | Funcional      | Permitir que o usuário interaja com fenômenos astronômicos por meio de simulações.                   |
-| 03  | Organização Progressiva por Nível de Conhecimento           | Funcional      | Estruturar o conteúdo em níveis: iniciante, intermediário e avançado.                                 |
-| 04  | Sistema de Avaliações e Quizzes com Feedback                | Funcional      | Avaliar o conhecimento dos usuários com testes interativos e retorno imediato.                        |
-| 05  | Fórum e Comunidades de Estudo                               | Funcional      | Proporcionar troca de conhecimento entre usuários via fóruns e grupos de estudo.                      |
-| 06  | Canal de Suporte e FAQ                                      | Funcional      | Oferecer ajuda com dúvidas frequentes e atendimento via chat para suporte técnico e pedagógico.       |
-| 07  | Recursos Educacionais para Professores                      | Funcional      | Disponibilizar planos de aula, atividades práticas e materiais para sala de aula.                     |
-| 08  | Acesso a Materiais para Download                            | Funcional      | Permitir o download de PDFs, apresentações e outros conteúdos.                                        |
-| 09  | Referências e Fontes Complementares                         | Funcional      | Sugerir livros, artigos, links confiáveis e ferramentas para aprofundamento.                          |
-| 10  | Glossário de Termos Técnicos                                | Funcional      | Explicar termos astronômicos usados nos conteúdos.                                                    |
-| 11  | Biografias e Cronologia da Astronomia                       | Funcional      | Apresentar cientistas relevantes e eventos históricos da área.                                        |
-| 12  | Notícias e Atualizações Científicas                         | Funcional      | Informar os usuários sobre descobertas e eventos recentes da astronomia.                              |
-| 13  | Calendário de Eventos Astronômicos                          | Funcional      | Mostrar datas de eclipses, chuvas de meteoros e outros fenômenos visíveis.                            |
-| 14  | Sistema de Cadastro, Perfil e Histórico de Aprendizado     | Funcional      | Gerenciar progresso, preferências e acesso personalizado ao conteúdo.                                 |
-| 15  | Busca e Filtros Avançados                                   | Funcional      | Facilitar a localização de conteúdos específicos por categoria, nível e formato.                      |
-| 16  | Integração com Redes Sociais                                | Funcional      | Permitir o compartilhamento de conteúdos em plataformas externas.                                     |
-| 17  | Avaliação e Feedback do Conteúdo                            | Funcional      | Coletar opiniões dos usuários sobre a qualidade dos materiais.                                        
+| Código | Requisito Funcional                                                      | Objetivo                                                                 |
+|--------|---------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| RF01   | Oferecer trilhas de aprendizado por tema e nível.                        | Organizar o conteúdo conforme o conhecimento do usuário.                 |
+| RF02   | Exibir aulas, artigos, exercícios e testes por trilha.                  | Facilitar o aprendizado completo e progressivo.                          |
+| RF03   | Apresentar trilhas como missões espaciais lúdicas.                      | Tornar o aprendizado mais envolvente e divertido.                        |
+| RF04   | Armazenar o progresso dos usuários.                                     | Permitir continuidade e personalização da experiência.                   |
+| RF05   | Atribuir XP e moedas por lição.                                         | Motivar o usuário com recompensas e gamificação.                         |
+| RF06   | Fornecer feedback instantâneo em exercícios.                            | Corrigir erros rapidamente e reforçar o aprendizado.                     |
+| RF07   | Exibir ranking de usuários.                                             | Estimular competição saudável e engajamento.                             |
+| RF08   | Liberar conquistas conforme o progresso.                                | Recompensar a dedicação e o avanço do usuário.                           |
+| RF09   | Oferecer jogos e microlições com correção automática.                   | Aprender de forma leve e eficaz com reforço imediato.                    |
+| RF10   | Aplicar quizzes com tempo limitado.                                     | Trabalhar raciocínio rápido e fixação de conteúdo.                       |
+| RF11   | Incluir jogo de perguntas temáticas.                                    | Ensinar astronomia de forma divertida e dinâmica.                        |
+| RF12   | Permitir criação de tópicos e grupos no fórum.                          | Favorecer a troca de ideias e dúvidas entre usuários.                    |
+| RF13   | Implementar votos e reputação em comentários.                           | Valorizar contribuições úteis e confiáveis.                              |
+| RF14   | Permitir grupos por localidade.                                         | Fortalecer comunidades locais de interesse em astronomia.               |
+| RF15   | Exibir calendário com eventos filtráveis.                               | Informar o usuário sobre eventos relevantes de forma prática.            |
+| RF16   | Enviar notificações sobre eventos.                                      | Lembrar o usuário de eventos importantes com antecedência.               |
+| RF17   | Disponibilizar blog com glossário e artigos salvos.                     | Facilitar o acesso ao conteúdo e à linguagem científica.                 |
+| RF18   | Classificar artigos por categorias.                                     | Melhorar a navegação e busca por temas específicos.                      |
+| RF19   | Atualizar publicações regularmente.                                     | Manter o conteúdo sempre atual e relevante.                             |
+| RF20   | Oferecer roteiros de experimentos em casa.                              | Estimular o aprendizado prático e acessível.                             |
+| RF21   | Indicar apps de telescópios virtuais.                                   | Ajudar usuários a observar o céu sem equipamentos físicos.               |
+| RF22   | Indicar produtos em promoção.                                           | Ajudar usuários a economizar em itens relacionados.                      |
+| RF23   | Usar bot para avisar promoçõe e filtras artigos científicos.            | Automatizar notificações de interesse personalizado.                     |
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -90,18 +97,18 @@ Após o brainstorming, foi possível elicitar alguns requisitos iniciais para o 
 <details>
   <summary size="20"><b> Requisitos não funcionais elicitados com o brainstorming </b></summary> 
     
-| Nº  | Requisito                                                   | Tipo           | Objetivo                                                                                              |
-|-----|-------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------|
-| 18  | Design Intuitivo e Atraente                                 | Não Funcional  | Oferecer uma interface clara, moderna e agradável ao usuário.                                         |
-| 19  | Responsividade Multiplataforma                              | Não Funcional  | Garantir funcionamento adequado em diferentes dispositivos.                                            |
-| 20  | Segurança dos Dados do Usuário                              | Não Funcional  | Proteger as informações pessoais e de navegação dos usuários.                                         |
-| 21  | Otimização de Desempenho                                    | Não Funcional  | Assegurar que o site tenha carregamento rápido e fluidez.                                             |
-| 22  | Disponibilidade e Escalabilidade do Sistema                 | Não Funcional  | Manter o site acessível e estável mesmo com alto volume de acessos.                                   |
-| 23  | Estrutura de Banco de Dados Eficiente                       | Não Funcional  | Armazenar e organizar informações de usuários, conteúdos e interações de forma otimizada.             |
-| 24  | Sistema de Login e Autenticação Segura                      | Não Funcional  | Permitir autenticação via senha criptografada, OAuth ou autenticação em dois fatores.                |
-| 25  | Backup e Recuperação de Dados                               | Não Funcional  | Garantir a integridade e recuperação das informações em caso de falhas.                               |
-| 26  | Compatibilidade com Navegadores Web Populares               | Não Funcional  | Assegurar o funcionamento adequado em Chrome, Firefox, Edge e Safari.                                |
-| 27  | Suporte a Acessibilidade                                    | Não Funcional  | Atender critérios de acessibilidade (ex: WCAG), com navegação por teclado e leitores de tela.         |
+| Código | Requisito Não Funcional                                   | Objetivo                                                                 |
+|--------|------------------------------------------------------------|--------------------------------------------------------------------------|
+| RNF01  | Plataforma responsiva para desktop e mobile.              | Acessar de qualquer dispositivo com boa usabilidade.                     |
+| RNF02  | Tempo de resposta < 2 segundos.                           | Garantir fluidez na navegação.                                           |
+| RNF03  | Garantir segurança dos dados.                            | Proteger informações dos usuários.                                       |
+| RNF04  | Disponibilidade mínima de 99,5% mensal.                  | Evitar interrupções no acesso ao sistema.                               |
+| RNF05  | Suporte a acessibilidade.                                | Incluir pessoas com deficiência no aprendizado.                          |
+| RNF06  | Interface intuitiva e linguagem clara.                   | Facilitar o uso, mesmo por iniciantes.                                   |
+| RNF07  | Suportar aumento de usuários.                            | Manter desempenho conforme a plataforma cresce.                          |
+| RNF08  | Atualizações sem impacto negativo.                       | Garantir continuidade do serviço durante melhorias.                      |
+| RNF09  | Compatibilidade com navegadores modernos.                | Acessível à maioria dos usuários.                                        |
+| RNF10  | Conteúdo carregado com internet limitada.                | Garantir acesso mesmo em conexões mais lentas.                           |
 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
