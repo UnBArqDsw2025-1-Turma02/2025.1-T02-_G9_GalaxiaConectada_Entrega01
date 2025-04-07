@@ -63,7 +63,7 @@ Após o brainstorming, foi possível elicitar alguns requisitos iniciais para o 
 <details>
   <summary size="20"><b> Requisitos elicitados com o brainstorming </b></summary> 
 
-| Número | Requisito                                                    | Tipo de Requisito | Funcionalidade/Objetivo que se busca alcançar com o requisito                                                                                                                               |
+| Número | Requisito                                                    | Tipo | Funcionalidade/Objetivo                                                                                                                               |
 |--------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 |01 | **Apresentação de Informações de Base Teórica** | Funcional         | Disponibilizar o conhecimento fundamental para a compreensão da astronomia.                                                                                                                 |
 |02 | **Conteúdo em Formato de Textos Explicativos** | Funcional         | Apresentar conceitos, teorias e fatos astronômicos de maneira escrita e detalhada.                                                                                                      |
