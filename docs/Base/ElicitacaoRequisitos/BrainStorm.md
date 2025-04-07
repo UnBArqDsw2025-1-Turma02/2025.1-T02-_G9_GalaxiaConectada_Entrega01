@@ -61,52 +61,48 @@ Para organizar os principais tópicos elencados no mapa mental, o quadro abaixo 
 Após o brainstorming, foi possível elicitar alguns requisitos iniciais para o desenvolvimento do projeto. A tabela abaixo mostra esses requisitos.
 
 <details>
-  <summary size="20"><b> Requisitos elicitados com o brainstorming </b></summary> 
+  <summary size="20"><b> Requisitos funcionais elicitados com o brainstorming </b></summary> 
 
-| Número | Requisito                                                    | Tipo | Funcionalidade/Objetivo                                                                                                                               |
-|--------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-|01 | **Apresentação de Informações de Base Teórica** | Funcional         | Disponibilizar o conhecimento fundamental para a compreensão da astronomia.                                                                                                                 |
-|02 | **Conteúdo em Formato de Textos Explicativos** | Funcional         | Apresentar conceitos, teorias e fatos astronômicos de maneira escrita e detalhada.                                                                                                      |
-|03 | **Utilização de Imagens Ilustrativas** | Funcional         | Visualizar objetos celestes, fenômenos e diagramas para auxiliar na compreensão.                                                                                                           |
-|04 | **Incorporação de Vídeos Educacionais** | Funcional         | Exibir explicações dinâmicas, simulações visuais e documentários relacionados à astronomia.                                                                                                |
-|05 | **Inclusão de Animações Demonstrativas** | Funcional         | Apresentar processos complexos e movimentos celestes de forma visualmente intuitiva.                                                                                                    |
-|06 | **Oferta de Simulações Interativas** | Funcional         | Permitir que os usuários manipulem parâmetros e observem os resultados de fenômenos astronômicos.                                                                                             |
-|07 | **Disponibilização de Links para Fontes Externas Confiáveis** | Funcional         | Direcionar os usuários para informações adicionais e aprofundamento em outros recursos online.                                                                                             |
-|08 | **Criação e Manutenção de um Glossário de Termos Astronômicos** | Funcional         | Definir e explicar os termos técnicos específicos da área para facilitar o entendimento.                                                                                                 |
-|09 | **Apresentação de uma Cronologia de Eventos Astronômicos Significativos** | Funcional         | Exibir uma linha do tempo com os principais descobrimentos, eventos e marcos da história da astronomia.                                                                            |
-|10 | **Publicação de Biografias de Astrônomos Relevantes** | Funcional         | Informar sobre a vida, as contribuições e os trabalhos de cientistas importantes para o desenvolvimento da astronomia.                                                                    |
-|11| **Possibilidade de Acesso a Artigos Científicos (com filtros)** | Funcional         | Permitir a busca e visualização de artigos acadêmicos relevantes para estudos mais avançados.                                                                                              |
-|12| **Sugestões de Livros para Aprofundamento Teórico** | Funcional         | Recomendar obras literárias que abordem os temas de forma mais extensa e detalhada.                                                                                                      |
-|13| **Indicação de Softwares e Ferramentas Úteis para Estudo e Prática** | Funcional         | Apresentar aplicativos e programas que auxiliem na observação, análise de dados e simulações astronômicas.                                                                           |
-|14| **Informações Detalhadas sobre Observatórios Astronômicos** | Funcional         | Fornecer dados sobre a localização, equipamentos e pesquisas realizadas em diferentes observatórios.                                                                                         |
-|15| **Organização do Conteúdo por Nível de Aprendizado do Usuário** | Funcional         | Estruturar o material de forma progressiva, atendendo a diferentes níveis de conhecimento.                                                                                                 |
-|16| **Disponibilização de Conteúdo Introdutório para Iniciantes** | Funcional         | Oferecer materiais básicos e acessíveis para quem está começando a aprender sobre astronomia.                                                                                                |
-|17| **Apresentação de Conteúdo de Nível Intermediário** | Funcional         | Fornecer informações com maior profundidade e complexidade para usuários com algum conhecimento prévio.                                                                                       |
-|18| **Oferta de Conteúdo Avançado e Especializado** | Funcional         | Apresentar tópicos complexos e específicos para estudantes e entusiastas com conhecimento aprofundado.                                                                                       |
-|19| **Implementação de Avaliações e Quizzes Interativos com Feedback** | Funcional         | Permitir que os usuários testem seus conhecimentos e recebam feedback imediato sobre seu desempenho.                                                                                    |
-|20| **Disponibilização de Exercícios Práticos e Problemas para Resolver** | Funcional         | Proporcionar a aplicação dos conceitos aprendidos através de atividades práticas.                                                                                                    |
-|21| **Criação de um Fórum de Discussão Moderado** | Funcional         | Facilitar a interação entre os usuários para troca de dúvidas, informações e debates sobre temas astronômicos.                                                                            |
-|22| **Possibilidade de Formação de Grupos de Estudo Virtuais** | Funcional         | Permitir que os usuários se organizem em comunidades para estudar e colaborar em conjunto.                                                                                                |
-|23| **Implementação de um Sistema de Chat Online para Suporte e Dúvidas** | Funcional         | Oferecer um canal de comunicação em tempo real para esclarecer dúvidas e fornecer assistência.                                                                                         |
-|24| **Disponibilização de Tutoriais e Manuais Passo a Passo** | Funcional         | Fornecer guias detalhados sobre como realizar tarefas específicas relacionadas à astronomia (ex: usar um telescópio, identificar constelações).                                          |
-|25| **Criação de uma seção de Perguntas Frequentes (FAQ) Abrangente** | Funcional         | Responder às dúvidas mais comuns dos usuários de forma clara e concisa.                                                                                                             |
-|26| **Oferta de Suporte Técnico para Problemas de Acesso e Navegação** | Funcional         | Prestar assistência aos usuários que enfrentarem dificuldades técnicas com o site.                                                                                                   |
-|27| **Publicação Regular de Notícias e Novidades da Área Astronômica** | Funcional         | Manter os usuários atualizados sobre as últimas descobertas, eventos e pesquisas na astronomia.                                                                                         |
-|28| **Disponibilização de um Calendário de Eventos Astronômicos Visíveis** | Funcional         | Informar sobre datas e horários de fenômenos astronômicos como eclipses, chuvas de meteoros e conjunções planetárias.                                                              |
-|29| **Criação de uma Área de Recursos Dedicada a Professores** | Funcional         | Oferecer materiais de apoio pedagógico para o ensino de astronomia em sala de aula.                                                                                                   |
-|30| **Sugestões de Atividades Práticas e Experimentos para o Ensino** | Funcional         | Propor ideias para atividades que envolvam os alunos de forma prática no aprendizado da astronomia.                                                                                    |
-|31| **Disponibilização de Materiais Didáticos para Download (PDFs, apresentações)** | Funcional         | Permitir que os professores e alunos acessem e utilizem recursos offline para estudo e ensino.                                                                               |
-|32| **Implementação de um Sistema de Cadastro e Login de Usuários** | Funcional         | Permitir a identificação dos usuários para acesso a funcionalidades personalizadas e acompanhamento do progresso.                                                                      |
-|33| **Possibilidade de Personalização do Perfil do Usuário** | Funcional         | Permitir que os usuários configurem suas preferências e informações pessoais no site.                                                                                                  |
-|34| **Registro e Acompanhamento do Histórico de Acesso e Aprendizado do Usuário** | Funcional         | Permitir que os usuários revisitem conteúdos já visualizados e acompanhem seu progresso no aprendizado.                                                                      |
-|35| **Implementação de um Sistema de Busca Interna Robusto e Eficiente** | Funcional         | Permitir que os usuários encontrem rapidamente informações específicas dentro do site.                                                                                               |
-|36| **Opções Avançadas de Filtragem e Categorização de Conteúdo** | Funcional         | Facilitar a busca por tópicos específicos através de filtros por nível, tema, formato e outros critérios.                                                                                 |
-|37| **Desenvolvimento de um Design Atraente, Intuitivo e de Fácil Navegação** | Não Funcional     | Proporcionar uma experiência visual agradável e uma navegação clara e eficiente pelo site.                                                                                     |
-|38| **Garantia de Acessibilidade do Site em Diferentes Dispositivos (Responsividade)** | Não Funcional     | Assegurar que o site funcione corretamente e se adapte a diferentes tamanhos de tela (desktops, tablets, smartphones).                                                     |
-|39| **Implementação de Medidas de Segurança para Proteção dos Dados dos Usuários** | Não Funcional     | Garantir a confidencialidade e a integridade das informações pessoais dos usuários cadastrados.                                                                               |
-|40| **Otimização do Desempenho do Site para Carregamento Rápido das Páginas** | Não Funcional     | Assegurar que o site carregue rapidamente para proporcionar uma experiência de usuário fluida.                                                                                   |
-|41| **Integração com Plataformas de Redes Sociais para Compartilhamento de Conteúdo** | Funcional         | Permitir que os usuários compartilhem facilmente conteúdos interessantes do site em suas redes sociais.                                                                    |
-|42| **Implementação de um Sistema de Avaliação e Feedback do Conteúdo pelos Usuários** | Funcional         | Coletar opiniões e sugestões dos usuários sobre a qualidade e relevância do material disponibilizado.                                                                     |
+| Nº  | Requisito                                                   | Tipo           | Objetivo                                                                                              |
+|-----|-------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------|
+| 01  | Apresentação de Conteúdo Teórico Multiformato               | Funcional      | Oferecer textos, imagens, vídeos e animações para facilitar a compreensão dos conceitos astronômicos. |
+| 02  | Simulações e Experimentos Interativos                       | Funcional      | Permitir que o usuário interaja com fenômenos astronômicos por meio de simulações.                   |
+| 03  | Organização Progressiva por Nível de Conhecimento           | Funcional      | Estruturar o conteúdo em níveis: iniciante, intermediário e avançado.                                 |
+| 04  | Sistema de Avaliações e Quizzes com Feedback                | Funcional      | Avaliar o conhecimento dos usuários com testes interativos e retorno imediato.                        |
+| 05  | Fórum e Comunidades de Estudo                               | Funcional      | Proporcionar troca de conhecimento entre usuários via fóruns e grupos de estudo.                      |
+| 06  | Canal de Suporte e FAQ                                      | Funcional      | Oferecer ajuda com dúvidas frequentes e atendimento via chat para suporte técnico e pedagógico.       |
+| 07  | Recursos Educacionais para Professores                      | Funcional      | Disponibilizar planos de aula, atividades práticas e materiais para sala de aula.                     |
+| 08  | Acesso a Materiais para Download                            | Funcional      | Permitir o download de PDFs, apresentações e outros conteúdos.                                        |
+| 09  | Referências e Fontes Complementares                         | Funcional      | Sugerir livros, artigos, links confiáveis e ferramentas para aprofundamento.                          |
+| 10  | Glossário de Termos Técnicos                                | Funcional      | Explicar termos astronômicos usados nos conteúdos.                                                    |
+| 11  | Biografias e Cronologia da Astronomia                       | Funcional      | Apresentar cientistas relevantes e eventos históricos da área.                                        |
+| 12  | Notícias e Atualizações Científicas                         | Funcional      | Informar os usuários sobre descobertas e eventos recentes da astronomia.                              |
+| 13  | Calendário de Eventos Astronômicos                          | Funcional      | Mostrar datas de eclipses, chuvas de meteoros e outros fenômenos visíveis.                            |
+| 14  | Sistema de Cadastro, Perfil e Histórico de Aprendizado     | Funcional      | Gerenciar progresso, preferências e acesso personalizado ao conteúdo.                                 |
+| 15  | Busca e Filtros Avançados                                   | Funcional      | Facilitar a localização de conteúdos específicos por categoria, nível e formato.                      |
+| 16  | Integração com Redes Sociais                                | Funcional      | Permitir o compartilhamento de conteúdos em plataformas externas.                                     |
+| 17  | Avaliação e Feedback do Conteúdo                            | Funcional      | Coletar opiniões dos usuários sobre a qualidade dos materiais.                                        
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</details>
+
+<details>
+  <summary size="20"><b> Requisitos não funcionais elicitados com o brainstorming </b></summary> 
+    
+| Nº  | Requisito                                                   | Tipo           | Objetivo                                                                                              |
+|-----|-------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------|
+| 18  | Design Intuitivo e Atraente                                 | Não Funcional  | Oferecer uma interface clara, moderna e agradável ao usuário.                                         |
+| 19  | Responsividade Multiplataforma                              | Não Funcional  | Garantir funcionamento adequado em diferentes dispositivos.                                            |
+| 20  | Segurança dos Dados do Usuário                              | Não Funcional  | Proteger as informações pessoais e de navegação dos usuários.                                         |
+| 21  | Otimização de Desempenho                                    | Não Funcional  | Assegurar que o site tenha carregamento rápido e fluidez.                                             |
+| 22  | Disponibilidade e Escalabilidade do Sistema                 | Não Funcional  | Manter o site acessível e estável mesmo com alto volume de acessos.                                   |
+| 23  | Estrutura de Banco de Dados Eficiente                       | Não Funcional  | Armazenar e organizar informações de usuários, conteúdos e interações de forma otimizada.             |
+| 24  | Sistema de Login e Autenticação Segura                      | Não Funcional  | Permitir autenticação via senha criptografada, OAuth ou autenticação em dois fatores.                |
+| 25  | Backup e Recuperação de Dados                               | Não Funcional  | Garantir a integridade e recuperação das informações em caso de falhas.                               |
+| 26  | Compatibilidade com Navegadores Web Populares               | Não Funcional  | Assegurar o funcionamento adequado em Chrome, Firefox, Edge e Safari.                                |
+| 27  | Suporte a Acessibilidade                                    | Não Funcional  | Atender critérios de acessibilidade (ex: WCAG), com navegação por teclado e leitores de tela.         |
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
