@@ -58,6 +58,11 @@ Para organizar os principais tópicos elencados no mapa mental, o quadro abaixo 
 
 ## Requisitos Elicitados
 
+Após o brainstorming, foi possível elicitar alguns requisitos iniciais para o desenvolvimento do projeto. A tabela abaixo mostra esses requisitos.
+
+<details>
+  <summary size="20"><b> Requisitos elicitados com o brainstorming </b></summary> 
+
 | Número | Requisito                                                    | Tipo de Requisito | Funcionalidade/Objetivo que se busca alcançar com o requisito                                                                                                                               |
 |--------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 |01 | **Apresentação de Informações de Base Teórica** | Funcional         | Disponibilizar o conhecimento fundamental para a compreensão da astronomia.                                                                                                                 |
@@ -104,6 +109,8 @@ Para organizar os principais tópicos elencados no mapa mental, o quadro abaixo 
 |42| **Implementação de um Sistema de Avaliação e Feedback do Conteúdo pelos Usuários** | Funcional         | Coletar opiniões e sugestões dos usuários sobre a qualidade e relevância do material disponibilizado.                                                                     |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</details>
 
 
 ## Conclusão
