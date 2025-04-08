@@ -15,6 +15,15 @@
 
 ## [Racha Cuca](https://rachacuca.com.br/)
 
+<div align="center">
+    Figura 1: Racha Cuca
+    <br>
+     <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/RachaCuca.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://rachacuca.com.br/">Racha Cuca</a>.
+    <br>
+</div>
+
 ### 🎯 Estrutura e Navegação
 - Site voltado para jogos de lógica, enigmas, quebra-cabeças, testes e desafios mentais.
 - Menus claros por categoria: jogos de lógica, testes, enigmas, palavras cruzadas.
@@ -36,6 +45,15 @@
 
 ## [Português Coruja](https://play.google.com/store/apps/details?id=br.com.heavygo.ptcoruja&hl=pt_BR&pli=1)
 
+<div align="center">
+    Figura 2: Português Coruja
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/PortuguesCoruja.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://play.google.com/store/apps/details?id=br.com.heavygo.ptcoruja&hl=pt_BR&pli=1">Português Coruja</a>.
+    <br>
+</div>
+
 ### 🎯 Estrutura e Navegação
 - Plataforma voltada para o ensino da língua portuguesa, com foco em concursos e reforço escolar.
 - Categorias organizadas por tema gramatical (crase, pontuação, regência etc.).
@@ -56,6 +74,15 @@
 
 ## [Bandle](https://bandle.app/)
 
+<div align="center">
+    Figura 3: Bandle
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/bandle.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://bandle.app/">Bandle</a>.
+    <br>
+</div>
+
 ### 🎯 Estrutura e Navegação
 - Jogo de adivinhação de bandas/músicas no estilo Wordle.
 - Interface minimalista e moderna.
@@ -72,7 +99,16 @@
 - Elemento diário mantém usuários retornando.
 - Boa integração com cultura pop e música.
 
-## 🧠 [NeuroNation](https://www.neuronation.com/)
+## [NeuroNation](https://www.neuronation.com/)
+
+<div align="center">
+    Figura 4: NeuroNation
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/NeuroNation.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.neuronation.com/">NeuroNation</a>.
+    <br>
+</div>
 
 ### 🎯 Estrutura e Navegação
 - Plataforma focada em treino cerebral com base científica.
@@ -93,6 +129,15 @@
 - Muitas funcionalidades estão atrás de paywall (plano premium).
 
 ## [Supera](https://www.superaonline.com.br/)
+
+<div align="center">
+    Figura 5: Supera
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/Supera.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.superaonline.com.br/">Supera</a>.
+    <br>
+</div>
 
 ### 🎯 Estrutura e Navegação
 - Site institucional de uma franquia de ginástica para o cérebro.
