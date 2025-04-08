@@ -133,10 +133,10 @@
 
 ## Bibliografia
 
-[1] QUORA. Quora. Disponível em: <https://www.quora.com/>. Acesso em: 8 abr. 2025.
+[1] QUORA. Quora. Disponível em: <https://www.quora.com/>. Acesso em: 6 abr. 2025.
 
-[2] REDDIT. Reddit – r/astronomy. Disponível em: <https://www.reddit.com/r/astronomy/>. Acesso em: 8 abr. 2025.
+[2] REDDIT. Reddit – r/astronomy. Disponível em: <https://www.reddit.com/r/astronomy/>. Acesso em: 6 abr. 2025.
 
-[3] STACK OVERFLOW. Stack Overflow. Disponível em: <https://stackoverflow.com/>. Acesso em: 8 abr. 2025.
+[3] STACK OVERFLOW. Stack Overflow. Disponível em: <https://stackoverflow.com/>. Acesso em: 6 abr. 2025.
 
 
