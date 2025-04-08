@@ -14,7 +14,7 @@
 * [Lições para o projeto Galáxia Conectada](#Lições-para-o-projeto-Galáxia-Conectada)
 
 
-## 🟡 [Um Minuto no Museu](https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM)
+## [Um Minuto no Museu](https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM)
 
 ### 🎯 Estrutura e Estilo
 - Animações curtas com personagens infantis que visitam museus e discutem obras de arte.
