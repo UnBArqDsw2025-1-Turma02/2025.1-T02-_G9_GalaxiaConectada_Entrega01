@@ -18,7 +18,7 @@
 <div align="center">
     Figura 1: Playlist One minute in a Museum
     <br>
-    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/ManualMundo.png" width="500">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/UmMinutoMuseu.png" width="500">
     <br>
     <b> Fonte: </b> <a href="https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM">One minute in a Museum</a>.
     <br>
@@ -129,7 +129,7 @@
 <div align="center">
     Figura 5: Canal Manual do Mundo
     <br>
-    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/CienciaTodoDia.png" width="500">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/ManualMundo.png" width="500">
     <br>
     <b> Fonte: </b> <a href="https://www.youtube.com/@manualdomundo">Canal Manual do Mundo</a>.
     <br>
