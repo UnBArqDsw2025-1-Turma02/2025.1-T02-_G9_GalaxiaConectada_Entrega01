@@ -31,7 +31,7 @@
 - Ideal para uso em contexto escolar.
 - Acessível e divertido para diferentes faixas etárias.
 
-## 🔵 [De Onde Vem](https://www.youtube.com/@DeOndeVem)
+##  [De Onde Vem](https://www.youtube.com/@DeOndeVem)
 
 ### 🎯 Estrutura e Estilo
 - Explicações sobre a origem de objetos do cotidiano (ex: de onde vem o leite, a energia, o papel).
@@ -51,7 +51,7 @@
 ### ❌ Pontos Negativos
 - Ritmo e animação mais lentos para públicos mais velhos.
 
-## 🟢 [Minuto na Terra](https://www.youtube.com/@MinutoDaTerra)
+##  [Minuto na Terra](https://www.youtube.com/@MinutoDaTerra)
 
 ### 🎯 Estrutura e Estilo
 - Animações explicativas com temas ligados à ciência e meio ambiente.
@@ -68,7 +68,7 @@
 - Episódios curtos e de fácil assimilação.
 - Ideal para redes sociais e educação informal.
 
-## 🔴 [Ciência Todo Dia](https://www.youtube.com/@CienciaTodoDia)
+## [Ciência Todo Dia](https://www.youtube.com/@CienciaTodoDia)
 
 ### 🎯 Estrutura e Estilo
 - Canal de divulgação científica com vídeos narrados.
@@ -88,7 +88,7 @@
 ### ❌ Pontos Negativos
 - Episódios mais longos (10–15 min), menos adaptados para atenção rápida.
 
-## 🟠 [Manual do Mundo](https://www.youtube.com/@manualdomundo)
+## [Manual do Mundo](https://www.youtube.com/@manualdomundo)
 
 ### 🎯 Estrutura e Estilo
 - Canal de experiências científicas, curiosidades e tutoriais "faça você mesmo".
