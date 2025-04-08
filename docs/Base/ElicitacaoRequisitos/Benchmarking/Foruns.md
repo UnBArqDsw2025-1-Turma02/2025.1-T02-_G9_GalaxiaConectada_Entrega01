@@ -2,7 +2,6 @@
 
 ## Sumário
 
-* [Introdução](#Introdução)
 * [Reddit – r/astronomy](#Reddit-–-r/astronomy)
 * [Quora](#Quora)
 * [Stack Overflow (modelo para fóruns técnicos)](#Stack-Overflow-(modelo-para-fóruns-técnicos))
