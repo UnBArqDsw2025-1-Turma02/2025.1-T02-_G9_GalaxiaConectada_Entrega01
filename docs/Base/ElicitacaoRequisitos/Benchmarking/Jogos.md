@@ -2,7 +2,6 @@
 
 ## Sumário
 
-* [Introdução](#Introdução)
 * [Racha-Cuca](#Racha-Cuca)
 * [Português-Coruja](#Português-Coruja)
 * [Bandle](#Bandle)
