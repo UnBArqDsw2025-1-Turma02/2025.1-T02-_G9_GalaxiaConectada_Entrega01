@@ -1,4 +1,4 @@
-# Benchmarking em Relação a Sites de Fóruns e Grupos de Discussão
+# Benchmarking em Relação a Sites de Jogos
 
 ## Sumário
 
