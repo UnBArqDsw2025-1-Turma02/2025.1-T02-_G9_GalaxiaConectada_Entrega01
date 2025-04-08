@@ -5,10 +5,10 @@
 * [Introdução](#Introdução)
 * [Reddit – r/astronomy](#Reddit-–-r/astronomy)
 * [Quora](#Quora)
-* [Stack-Overflow](#Stack-Overflow)
+* [Stack Overflow (modelo para fóruns técnicos)](#Stack-Overflow-(modelo-para-fóruns-técnicos))
 * [Lições para o projeto Galáxia Conectada](#Lições-para-o-projeto-Galáxia-Conectada)
 
-## 🔵 [Reddit – r/astronomy](https://www.reddit.com/r/astronomy/)
+## [Reddit – r/astronomy](https://www.reddit.com/r/astronomy/)
 
 ### 🧩 Estrutura e Navegação
 - Plataforma baseada em comunidades (subreddits) temáticas.
@@ -35,7 +35,7 @@
 - Estrutura pode parecer caótica para novos usuários.
 - Discussões podem se perder em meio a muitos comentários ou tópicos irrelevantes.
 
-## 🟣 [Quora](https://www.quora.com/)
+## [Quora](https://www.quora.com/)
 
 ### 🧩 Estrutura e Navegação
 - Plataforma baseada em perguntas e respostas organizadas por temas.
@@ -62,7 +62,7 @@
 - Nem sempre há consenso sobre as respostas corretas.
 - Requer moderação ativa para evitar duplicações e discussões dispersas.
 
-## 🟡 [Stack Overflow](https://stackoverflow.com/) (modelo para fóruns técnicos)
+## [Stack Overflow](https://stackoverflow.com/) (modelo para fóruns técnicos)
 
 ### 🧩 Estrutura e Navegação
 - Estrutura de perguntas e respostas técnicas, com foco em precisão e clareza.
