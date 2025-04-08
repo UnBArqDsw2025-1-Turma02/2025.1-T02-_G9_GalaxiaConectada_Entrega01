@@ -11,6 +11,15 @@
 
 ## [Cuponomia](https://www.cuponomia.com.br/)
 
+<div align="center">
+    Figura 1: Cuponomia
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/cuponomia.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.cuponomia.com.br/">Cuponomia</a>.
+    <br>
+</div>
+
 ### 📝 Descrição do site
 Plataforma brasileira que reúne cupons de desconto, cashback e promoções de diversas lojas online. 
 
@@ -35,6 +44,15 @@ Plataforma brasileira que reúne cupons de desconto, cashback e promoções de d
 
 
 ## [Promobit](https://www.promobit.com.br/)
+
+<div align="center">
+    Figura 2: Promobit
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/promit.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.promobit.com.br/">Promobit</a>.
+    <br>
+</div>
 
 ### 📝 Descrição do site
 Plataforma colaborativa de promoções em tempo real, onde os próprios usuários compartilham e avaliam ofertas. Possui foco em promoções verificadas e oferece suporte para compras mais conscientes.
