@@ -34,7 +34,7 @@
 ### ❌ Pontos Negativos
 - Visual pouco moderno.
 
-## Português Coruja](https://portuguescoruja.com.br/)
+## [Português Coruja](https://portuguescoruja.com.br/)
 
 ### 🎯 Estrutura e Navegação
 - Plataforma voltada para o ensino da língua portuguesa, com foco em concursos e reforço escolar.
