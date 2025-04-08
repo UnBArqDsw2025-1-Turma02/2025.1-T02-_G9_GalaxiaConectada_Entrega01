@@ -143,7 +143,7 @@
 | RNF05  | A plataforma deve armazenar os dados de progresso do usuário com segurança.            | Proteger informações pessoais e evitar perda de progresso.                               | NeuroNation / Supera      |
 | RNF06  | O sistema deve manter taxa de disponibilidade (uptime) superior a 99%.                 | Evitar indisponibilidades e manter confiança dos usuários.                               | NeuroNation / Racha Cuca  |
 | RNF07  | O sistema deve apresentar interface intuitiva e centrada no jogo.                      | Facilitar a navegação e foco nos desafios.                                               | Bandle / Português Coruja |
-| RNF08  | O conteúdo deve ser otimizado para SEO.                                                 | Aumentar visibilidade em buscadores e atrair novos usuários.                             | Racha Cuca / Português Coruja |
+| RNF08  | O conteúdo deve ser otimizado para SEO(Search Engine Optimization).                                                 | Aumentar visibilidade em buscadores e atrair novos usuários.                             | Racha Cuca / Português Coruja |
 | RNF09  | A plataforma deve oferecer suporte multilíngue ou adaptável à linguagem do navegador.  | Ampliar o alcance internacional e inclusão linguística.                                  | NeuroNation               |
 | RNF10  | O sistema deve registrar estatísticas de uso para análise e melhoria contínua.         | Permitir melhorias baseadas em dados reais de uso.                                       | Supera / NeuroNation      |
 
