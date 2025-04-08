@@ -1,7 +1,6 @@
 # Benchmarking em Relação a Animações
 ## Sumário
 
-* [Introdução](#Introdução)
 * [Um Minuto no Museu](#Um-Minuto-no-Museu)
 * [De Onde Vem](#De-Onde-Vem)
 * [Minuto na Terra](#Minuto-na-Terra)
