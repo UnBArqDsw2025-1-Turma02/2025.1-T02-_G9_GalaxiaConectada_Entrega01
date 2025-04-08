@@ -92,7 +92,7 @@
 ### ❌ Pontos Negativos
 - Muitas funcionalidades estão atrás de paywall (plano premium).
 
-## [Supera](https://www.metodosupera.com.br/)
+## [Supera](https://www.superaonline.com.br/)
 
 ### 🎯 Estrutura e Navegação
 - Site institucional de uma franquia de ginástica para o cérebro.
