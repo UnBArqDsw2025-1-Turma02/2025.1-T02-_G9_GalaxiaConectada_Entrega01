@@ -8,7 +8,6 @@
 * [NASA Science](#NASA-Science)
 * [EarthSky](#EarthSky)
 
-##   Divulgação Científica
 
 ### [Astronomia no Zênite](https://zenite.nu/) 
 
