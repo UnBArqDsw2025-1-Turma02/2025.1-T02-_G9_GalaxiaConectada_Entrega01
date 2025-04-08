@@ -7,7 +7,9 @@
 * [Céu Profundo](#Céu-Profundo)
 * [NASA Science](#NASA-Science)
 * [EarthSky](#EarthSky)
-
+* [Requisitos Elicitados](#Requisitos-Elicitados)
+  * [Requisitos Funcionais](#Requisitos-Funcionais)
+  * [Requisitos Não-Funcionais](#Requisitos-Não-Funcionais)
 
 ### [Astronomia no Zênite](https://zenite.nu/) 
 
@@ -19,8 +21,8 @@ o Astronomia no Zênite é um portal de divulgação científica focado em astro
 
 A **amplitude dos tópicos** abordados é ampla, indo desde **conceitos introdutórios** para iniciantes até **temas avançados**, como buracos negros e radioastronomia.
 
-  - ** Exemplo de conteúdo para iniciante:** [Para que serve a Astronomia](https://zenite.nu/para-que-serve-a-astronomia)
-  -  ** Exemplo de conteúdo para avançados:** [Universo multicolorido: A radioastronomia](https://zenite.nu/universo-multicolorido) 
+  - **Exemplo de conteúdo para iniciante:** [Para que serve a Astronomia](https://zenite.nu/para-que-serve-a-astronomia)
+  -  **Exemplo de conteúdo para avançados:** [Universo multicolorido: A radioastronomia](https://zenite.nu/universo-multicolorido) 
 
 ##### Principais Tópicos Abordados:
 
@@ -206,3 +208,39 @@ O site cobre temas variados da astronomia com uma linguagem acessível e ênfase
 - Informações acessíveis para todos os níveis.
 - Navegação simples e responsiva.
 
+
+## Requisitos Elicitados
+
+### Requisitos Funcionais 
+
+| Código | Requisito Funcional                                                                 | Objetivo                                                                 | Origem                |
+|--------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------|
+| RF01   | O sistema deve permitir o acesso a artigos com diferentes níveis de profundidade.   | Atender públicos com diferentes níveis de conhecimento.                  | NASA Science           |
+| RF02   | O sistema deve exibir alertas sobre eventos astronômicos atuais.                    | Manter o usuário informado sobre fenômenos observáveis.                  | EarthSky               |
+| RF03   | O sistema deve disponibilizar trilhas temáticas por categoria (ex: Sol, Universo).  | Facilitar a navegação e o aprendizado temático.                          | NASA Science / EarthSky|
+| RF04   | O sistema deve disponibilizar fotos e conteúdos enviados pela comunidade.           | Estimular o engajamento e senso de comunidade.                           | EarthSky               |
+| RF05   | O sistema deve oferecer materiais educativos por público-alvo (crianças, estudantes etc). | Personalizar a experiência conforme o nível de aprendizado.         | NASA Science           |
+| RF06   | O sistema deve integrar recursos multimídia (vídeos, imagens, sons, podcasts etc).  | Tornar o conteúdo mais atrativo e acessível.                             | NASA Science / Zênite  |
+| RF07   | O sistema deve oferecer uma agenda de eventos astronômicos.                         | Planejar observações e estudos baseados em eventos futuros.              | Céu Profundo / EarthSky|
+| RF08   | O sistema deve permitir a busca eficiente por conteúdo.                             | Melhorar a experiência de navegação e localização de artigos.            | Zênite                 |
+| RF09   | O sistema deve classificar artigos por categoria e não apenas por data.             | Facilitar a organização e recuperação da informação.                     | Céu Profundo           |
+| RF10   | O sistema deve apresentar uma seção com notícias científicas atualizadas.           | Informar o público sobre novidades da área.                              | NASA Science / EarthSky|
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+### Requisitos Não Funcionais
+
+| Código | Requisito Não Funcional                                                              | Objetivo                                                            | Origem                |
+|--------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------|
+| RNF01  | O site deve ser responsivo e acessível em diferentes dispositivos.                   | Garantir boa usabilidade em desktop e mobile.                       | Todos os sites         |
+| RNF02  | O tempo de carregamento das páginas deve ser inferior a 3 segundos.                  | Proporcionar uma experiência rápida e fluida.                       | EarthSky / NASA        |
+| RNF03  | O conteúdo multimídia deve ser otimizado para carregamento rápido.                   | Evitar lentidão em redes com baixa velocidade.                      | NASA Science           |
+| RNF04  | O sistema deve estar disponível 99% do tempo.                                         | Garantir confiabilidade e acesso contínuo.                          | NASA Science / EarthSky|
+| RNF05  | As trilhas temáticas devem ter navegação intuitiva e com fácil retorno ao início.    | Facilitar o uso por usuários iniciantes.                            | NASA Science           |
+| RNF06  | O sistema deve ser compatível com leitores de tela e navegação por teclado.          | Promover acessibilidade para pessoas com deficiência.               | NASA Science           |
+| RNF07  | O mecanismo de busca deve apresentar resultados relevantes e filtráveis.             | Otimizar a experiência de pesquisa.                                 | Zênite / Céu Profundo  |
+| RNF08  | O layout deve seguir uma estrutura visual clara e coerente entre páginas.            | Melhorar a usabilidade e estética.                                  | EarthSky / Céu Profundo|
+| RNF09  | O site deve utilizar linguagem clara e acessível para diferentes faixas etárias.     | Ampliar a compreensão e inclusão de públicos diversos.              | EarthSky / NASA        |
+| RNF10  | Os recursos devem ser documentados e testados antes da publicação.                   | Garantir a estabilidade e confiabilidade do conteúdo.               | NASA Science           |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
