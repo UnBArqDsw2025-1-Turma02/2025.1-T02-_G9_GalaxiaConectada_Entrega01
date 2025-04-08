@@ -7,11 +7,10 @@
 * [Minuto na Terra](#Minuto-na-Terra)
 * [Ciência Todo Dia](#Ciência-Todo-Dia)
 * [Manual do Mundo](#Manual-do-Mundo)
+* [Lições para o projeto Galáxia Conectada](#Lições-para-o-projeto-Galáxia-Conectada)
 * [Requisitos Elicitados](#Requisitos-Elicitados)
   * [Requisitos Funcionais](#Requisitos-Funcionais)
   * [Requisitos Não-Funcionais](#Requisitos-Não-Funcionais)
-  
-* [Lições para o projeto Galáxia Conectada](#Lições-para-o-projeto-Galáxia-Conectada)
 
 
 ## [Um Minuto no Museu](https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM)
