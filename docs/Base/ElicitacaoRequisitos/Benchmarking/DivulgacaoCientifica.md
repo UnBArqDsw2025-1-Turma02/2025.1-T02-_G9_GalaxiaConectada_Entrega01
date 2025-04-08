@@ -2,7 +2,6 @@
 
 ## Sumário
 
-* [Introdução](#Introdução)
 * [Astronomia no Zênite](#Astronomia-no-Zênite)
 * [Céu Profundo](#Céu-Profundo)
 * [NASA Science](#NASA-Science)
