@@ -12,6 +12,15 @@
 
 ### [Astronomia no Zênite](https://zenite.nu/) 
 
+<div align="center">
+    Figura 1: Astronomia no Zênite
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/AstronomiaZenite.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://zenite.nu/">Astronomia no Zênite</a>.
+    <br>
+</div>
+
 #### 🪐 Descrição do Site
 
 o Astronomia no Zênite é um portal de divulgação científica focado em astronomia, voltado principalmente para o público desde iniciante para avançado. Assim, destaca-se por oferecer conteúdo acessível, com textos e artigos e uma variedade de temas que vão desde conceitos básicos até curiosidades culturais relacionadas à astronomia. 
@@ -77,6 +86,15 @@ A seção de "Curiosidades" aborda temas menos convencionais, como:
 
 ### [Céu Profundo](https://ceuprofundo.com/) 
 
+<div align="center">
+    Figura 2: Céu Profundo
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/CeuProfundo.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://ceuprofundo.com/">Céu Profundo</a>.
+    <br>
+</div>
+
 #### 🪐 Descrição do Site
 
 O Céu Profundo é um site voltado à divulgação da astronomia por meio de conteúdos em formato de blog, mesclando textos, imagens e alguns vídeos. Ele combina publicações informativas com ferramentas astronômicas, calendário de eventos e atividades práticas como oficinas.
@@ -99,7 +117,7 @@ O site apresenta uma estrutura variada de seções, voltadas tanto para a inform
   - [Instagram](https://www.instagram.com/ceuprofundo/)
   - [Facebook](https://www.facebook.com/ceuprofundo)
   - [Twitter](https://twitter.com/ceuprofundo)
--  *Uso frequente de imagens e vídeos demonstrativos**, que ajudam a ilustrar os conceitos e tornar o conteúdo mais visualmente atrativo e compreensível.
+-  **Uso frequente de imagens e vídeos demonstrativos**, que ajudam a ilustrar os conceitos e tornar o conteúdo mais visualmente atrativo e compreensível.
 
 #### ✅ Pontos Positivos
 
@@ -113,6 +131,15 @@ O site apresenta uma estrutura variada de seções, voltadas tanto para a inform
 - A homepage apresenta muitos links e informações misturadas, o que pode causar confusão para o visitante iniciante.
 
 ### [NASA Science](https://science.nasa.gov)
+
+<div align="center">
+    Figura 3: NASA Science
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/NasaScience.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://science.nasa.gov">NASA Science</a>.
+    <br>
+</div>
 
 #### 🪐 Descrição do Site
 
@@ -167,6 +194,15 @@ O site oferece uma ampla gama de tópicos que se dividem em áreas como:
 - Parte dos conteúdos está apenas em inglês, o que pode dificultar o acesso de públicos não bilíngues. Podeira ter opção de traduzir para diversos idiomas.
 
 ### [EarthSky](https://earthsky.org)
+
+<div align="center">
+    Figura 4: EarthSky
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/EarthSky.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://earthsky.org">EarthSkye</a>.
+    <br>
+</div>
 
 #### 🪐 Descrição do Site
 O EarthSky é um portal internacional focado em atualizações diárias sobre o céu, eventos astronômicos, ciência espacial e observação do universo. Seu conteúdo é voltado tanto para astrônomos amadores quanto para curiosos da ciência ao oferecer informações práticas e artigos acessíveis com imagens e vídeos incorporados.
