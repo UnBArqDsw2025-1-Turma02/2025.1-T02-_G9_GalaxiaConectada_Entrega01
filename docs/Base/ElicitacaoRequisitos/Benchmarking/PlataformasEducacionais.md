@@ -15,6 +15,15 @@
 
 ## [Khan Academy](https://pt.khanacademy.org/)
 
+<div align="center">
+    Figura 1: Khan Academy
+    <br>
+     <img src="" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://pt.khanacademy.org/">Khan Academy</a>.
+    <br>
+</div>
+
 ### 📝 Descrição do site
 Plataforma gratuita de ensino com foco em matemática, ciências, programação, economia, história, entre outros. Oferece conteúdo para diferentes níveis escolares, desde o ensino fundamental até conteúdos universitários de forma estruturada e completa.
 
