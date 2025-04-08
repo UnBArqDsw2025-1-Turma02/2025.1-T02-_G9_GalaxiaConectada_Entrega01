@@ -10,6 +10,7 @@
 * [Requisitos Elicitados](#Requisitos-Elicitados)
   * [Requisitos Funcionais](#Requisitos-Funcionais)
   * [Requisitos Não-Funcionais](#Requisitos-Não-Funcionais)
+* [Bibliografia](#Bibliografia)
 
 
 ## [Um Minuto no Museu](https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM)
@@ -148,4 +149,16 @@
 | RNF12 | Deve haver um sistema de cache para vídeos já assistidos | Aumentar performance e reduzir recarregamentos | YouTube (referência geral) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
+
+## Bibliografia
+
+[1] CIÊNCIA TODO DIA. Disponível em: https://www.youtube.com/@CienciaTodoDia. Acesso em: 6 abr. 2025.
+
+[2] DE ONDE VEM. Disponível em: https://www.youtube.com/@DeOndeVem. Acesso em: 6 abr. 2025.
+
+[3] MANUAL DO MUNDO. Disponível em: https://www.youtube.com/@manualdomundo. Acesso em: 6 abr. 2025.
+
+[4] MINUTO NA TERRA. Disponível em: https://www.youtube.com/@MinutoDaTerra. Acesso em: 6 abr. 2025.
+
+[5] UM MINUTO NO MUSEU. Disponível em: https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM. Acesso em: 6 abr. 2025.
 
