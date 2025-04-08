@@ -147,3 +147,16 @@
 | RNF10  | O sistema deve registrar estatísticas de uso para análise e melhoria contínua.         | Permitir melhorias baseadas em dados reais de uso.                                       | Supera / NeuroNation      |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
+
+
+## Bibliografia
+
+[1] BANDLE. Bandle. Disponível em: <https://bandle.app/>. Acesso em: 8 abr. 2025.
+
+[2] NEURONATION. NeuroNation. Disponível em: <https://www.neuronation.com/>. Acesso em: 8 abr. 2025.
+
+[3] PORTUGUÊS CORUJA. Português Coruja. Disponível em: <https://portuguescoruja.com.br/>. Acesso em: 8 abr. 2025.
+
+[4] RACHA CUCA. Racha Cuca. Disponível em: <https://rachacuca.com.br/>. Acesso em: 8 abr. 2025.
+
+[5] SUPERA. Supera. Disponível em: <https://www.metodosupera.com.br/>. Acesso em: 8 abr. 2025.
