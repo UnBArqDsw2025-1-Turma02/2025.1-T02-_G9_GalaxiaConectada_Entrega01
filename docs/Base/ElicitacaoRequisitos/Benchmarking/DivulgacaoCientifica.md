@@ -243,3 +243,13 @@ O site cobre temas variados da astronomia com uma linguagem acessível e ênfase
 | RNF10  | Os recursos devem ser documentados e testados antes da publicação.                   | Garantir a estabilidade e confiabilidade do conteúdo.               | NASA Science           |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+## Bibliografia
+
+[1] ASTRONOMIA NO ZÊNITE. Disponível em: <https://zenite.nu/>. Acesso em: 6 abr. 2025.
+
+[2] CÉU PROFUNDO. Disponível em: <https://ceuprofundo.com/>. Acesso em: 6 abr. 2025.
+
+[3] EARTHSKY. Disponível em: <https://earthsky.org/>. Acesso em: 6 abr. 2025.
+
+[4] NASA. NASA Science. Disponível em: <https://science.nasa.gov/>. Acesso em: 6 abr. 2025.
