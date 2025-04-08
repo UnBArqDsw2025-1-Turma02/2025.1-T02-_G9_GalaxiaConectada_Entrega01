@@ -18,7 +18,7 @@
 <div align="center">
     Figura 1: Khan Academy
     <br>
-     <img src="" width="500">
+     <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/11d5c1f03aeb155940da6697495ae86c339e244f/docs/Base/Imagens/ImagensBenchmarking/khanAcademy.png" width="500">
     <br>
     <b> Fonte: </b> <a href="https://pt.khanacademy.org/">Khan Academy</a>.
     <br>
@@ -43,6 +43,15 @@ Plataforma gratuita de ensino com foco em matemática, ciências, programação,
 
 ## [Duolingo](https://www.duolingo.com/)
 
+<div align="center">
+    Figura 2: Duolingo
+    <br>
+     <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/11d5c1f03aeb155940da6697495ae86c339e244f/docs/Base/Imagens/ImagensBenchmarking/duolingo.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.duolingo.com/">Duolingo</a>.
+    <br>
+</div>
+
 ### 📝 Descrição do site
 Aplicativo de aprendizado de idiomas com abordagem lúdica e gamificada. Ideal para iniciantes, oferece dezenas de idiomas com lições diárias em formato de jogo.
 
@@ -61,6 +70,15 @@ Aplicativo de aprendizado de idiomas com abordagem lúdica e gamificada. Ideal p
 - Ótimo para reforço de vocabulário.
 
 ## [Português Coruja](https://portuguescoruja.com.br/)
+
+<div align="center">
+    Figura 3: Português Coruja
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/PortuguesCoruja.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://play.google.com/store/apps/details?id=br.com.heavygo.ptcoruja&hl=pt_BR&pli=1">Português Coruja</a>.
+    <br>
+</div>
 
 ### 📝 Descrição do site
 Site brasileiro voltado ao ensino de língua portuguesa com foco em ortografia, gramática e interpretação de texto, voltado para alunos, concurseiros e vestibulandos.
@@ -81,6 +99,15 @@ Site brasileiro voltado ao ensino de língua portuguesa com foco em ortografia, 
 
 ## [Udemy](https://www.udemy.com/)
 
+<div align="center">
+    Figura 4: Udemy
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/11d5c1f03aeb155940da6697495ae86c339e244f/docs/Base/Imagens/ImagensBenchmarking/udemy.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.udemy.com/">Udemy</a>.
+    <br>
+</div>
+
 ### 📝 Descrição do site
 Plataforma de cursos online pagos, cobrindo uma enorme gama de áreas como tecnologia, design, negócios, marketing, saúde, música, entre outros.
 
@@ -99,6 +126,15 @@ Plataforma de cursos online pagos, cobrindo uma enorme gama de áreas como tecno
 - Acesso vitalício ao conteúdo adquirido.
 
 ## [Canal do Professor Boaro (YouTube)](https://www.youtube.com/@professorboaro)
+
+<div align="center">
+    Figura 5: Canal do Professor Boaro
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/11d5c1f03aeb155940da6697495ae86c339e244f/docs/Base/Imagens/ImagensBenchmarking/Boaro.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.youtube.com/@professorboaro">Canal do Professor Boaro</a>.
+    <br>
+</div>
 
 ### 📝 Descrição do site
 Canal do YouTube focado no ensino de Física para vestibulares, ENEM e reforço escolar. O professor Boaro apresenta aulas com linguagem clara, abordando teoria e resolução de exercícios.
@@ -119,6 +155,15 @@ Canal do YouTube focado no ensino de Física para vestibulares, ENEM e reforço 
 
 
 ## [Física e Vestibular](https://www.fisicaevestibular.com.br/)
+
+<div align="center">
+    Figura 6: Física e Vestibular
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/11d5c1f03aeb155940da6697495ae86c339e244f/docs/Base/Imagens/ImagensBenchmarking/FisicaVestibular.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.fisicaevestibular.com.br/">Física e Vestibular</a>.
+    <br>
+</div>
 
 ### 📝 Descrição do site
 Site com foco em conteúdo teórico de física, resumos, exercícios resolvidos, curiosidades e materiais complementares voltados para alunos e vestibulandos.
