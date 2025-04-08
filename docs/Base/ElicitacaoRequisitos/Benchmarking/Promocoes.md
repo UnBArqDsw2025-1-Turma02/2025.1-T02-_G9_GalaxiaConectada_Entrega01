@@ -95,3 +95,10 @@ Plataforma colaborativa de promoções em tempo real, onde os próprios usuário
 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+
+## Bibliografia
+
+[1] CUPONOMIA. Cuponomia. Disponível em: <https://www.cuponomia.com.br/>. Acesso em: 6 abr. 2025.
+
+[2] PROMOBIT. Promobit. Disponível em: <https://www.promobit.com.br/>. Acesso em: 6 abr. 2025.
