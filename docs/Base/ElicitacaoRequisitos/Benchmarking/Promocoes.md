@@ -2,7 +2,6 @@
 
 ## Sumário
 
-* [Introdução](#Introdução)
 * [Cuponomia](#Cuponomia)
 * [Promobit](#Promobit)
 * [Lições para o projeto Galáxia Conectada](#Lições-para-o-projeto-Galáxia-Conectada)
