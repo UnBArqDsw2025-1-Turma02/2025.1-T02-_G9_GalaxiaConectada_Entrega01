@@ -2,7 +2,7 @@
 
 ## Sumário
 
-* [Reddit – r/astronomy](#Reddit-–-r/astronomy)
+* [Reddit](#Reddit)
 * [Quora](#Quora)
 * [Stack Overflow (modelo para fóruns técnicos)](#Stack-Overflow-(modelo-para-fóruns-técnicos))
 * [Lições para o projeto Galáxia Conectada](#Lições-para-o-projeto-Galáxia-Conectada)
@@ -10,7 +10,17 @@
   * [Requisitos Funcionais](#Requisitos-Funcionais)
   * [Requisitos Não-Funcionais](#Requisitos-Não-Funcionais)
 
-## [Reddit – r/astronomy](https://www.reddit.com/r/astronomy/)
+## [Reddit](https://www.reddit.com/r/astronomy/)
+
+
+<div align="center">
+    Figura 1: Reddit
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/reddit.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.reddit.com/r/astronomy/">Reddit</a>.
+    <br>
+</div>
 
 ### 🧩 Estrutura e Navegação
 - Plataforma baseada em comunidades (subreddits) temáticas.
@@ -39,6 +49,15 @@
 
 ## [Quora](https://www.quora.com/)
 
+<div align="center">
+    Figura 2: Quora
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/quora.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.quora.com/">Quora</a>.
+    <br>
+</div>
+
 ### 🧩 Estrutura e Navegação
 - Plataforma baseada em perguntas e respostas organizadas por temas.
 - Interface limpa, com buscas fáceis e sugestões automáticas.
@@ -65,6 +84,15 @@
 - Requer moderação ativa para evitar duplicações e discussões dispersas.
 
 ## [Stack Overflow](https://stackoverflow.com/) (modelo para fóruns técnicos)
+
+<div align="center">
+    Figura 3: Stack Overflow
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/stak.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://stackoverflow.com/">Stack Overflow</a>.
+    <br>
+</div>
 
 ### 🧩 Estrutura e Navegação
 - Estrutura de perguntas e respostas técnicas, com foco em precisão e clareza.
