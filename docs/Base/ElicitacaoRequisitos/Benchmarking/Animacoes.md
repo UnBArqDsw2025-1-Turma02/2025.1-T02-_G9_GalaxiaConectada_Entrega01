@@ -15,6 +15,16 @@
 
 ## [Um Minuto no Museu](https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM)
 
+<div align="center">
+    Figura 1: Playlist One minute in a Museum
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/UmMinutoMuseu.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM">One minute in a Museum</a>.
+    <br>
+</div>
+
+
 ### 🎯 Estrutura e Estilo
 - Animações curtas com personagens infantis que visitam museus e discutem obras de arte.
 - Linguagem simples, acessível e educativa.
@@ -31,6 +41,15 @@
 - Acessível e divertido para diferentes faixas etárias.
 
 ##  [De Onde Vem](https://www.youtube.com/@DeOndeVem)
+
+<div align="center">
+    Figura 2: Canal De Onde Vem
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/DeOndeVem.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.youtube.com/@DeOndeVem">De Onde Vem</a>.
+    <br>
+</div>
 
 ### 🎯 Estrutura e Estilo
 - Explicações sobre a origem de objetos do cotidiano (ex: de onde vem o leite, a energia, o papel).
@@ -52,6 +71,15 @@
 
 ##  [Minuto na Terra](https://www.youtube.com/@MinutoDaTerra)
 
+<div align="center">
+    Figura 3: Canal Minuto na Terra
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/MinutoTerra.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.youtube.com/@MinutoDaTerra">Canal Minuto na Terra</a>.
+    <br>
+</div>
+
 ### 🎯 Estrutura e Estilo
 - Animações explicativas com temas ligados à ciência e meio ambiente.
 - Episódios de 1 a 2 minutos, com roteiro ágil e linguagem acessível.
@@ -68,6 +96,15 @@
 - Ideal para redes sociais e educação informal.
 
 ## [Ciência Todo Dia](https://www.youtube.com/@CienciaTodoDia)
+
+<div align="center">
+    Figura 4: Canal Ciência Todo Dia
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/CienciaTodoDia.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.youtube.com/@CienciaTodoDia">Canal Ciência Todo Dia</a>.
+    <br>
+</div>
 
 ### 🎯 Estrutura e Estilo
 - Canal de divulgação científica com vídeos narrados.
@@ -88,6 +125,15 @@
 - Episódios mais longos (10–15 min), menos adaptados para atenção rápida.
 
 ## [Manual do Mundo](https://www.youtube.com/@manualdomundo)
+
+<div align="center">
+    Figura 5: Canal Manual do Mundo
+    <br>
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/5a83ac7aac90fda4b26e2dde8a52a36d5faba8a6/docs/Base/Imagens/ImagensBenchmarking/CienciaTodoDia.png" width="500">
+    <br>
+    <b> Fonte: </b> <a href="https://www.youtube.com/@manualdomundo">Canal Manual do Mundo</a>.
+    <br>
+</div>
 
 ### 🎯 Estrutura e Estilo
 - Canal de experiências científicas, curiosidades e tutoriais "faça você mesmo".
