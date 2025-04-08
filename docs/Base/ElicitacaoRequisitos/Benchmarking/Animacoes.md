@@ -133,3 +133,21 @@
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Requisitos Não Funcionais 
+
+| Código | Requisito Não Funcional | Objetivo | Origem |
+|--------|--------------------------|----------|--------|
+| RNF01 | O sistema deve carregar vídeos em até 3 segundos | Garantir uma boa experiência de usuário | YouTube, Ciência Todo Dia |
+| RNF02 | A plataforma deve ser compatível com dispositivos móveis e tablets | Acessibilidade ampla para diferentes públicos | Manual do Mundo, De Onde Vem |
+| RNF03 | A interface deve utilizar linguagem simples e acessível | Facilitar o uso por crianças e iniciantes | Um Minuto no Museu, De Onde Vem |
+| RNF04 | Os vídeos devem ter suporte para legendas em pelo menos 2 idiomas | Aumentar a inclusão e acessibilidade | Ciência Todo Dia, Minuto na Terra |
+| RNF05 | O design visual deve ser atrativo, colorido e didático | Engajar usuários de diferentes faixas etárias | Manual do Mundo, Um Minuto no Museu |
+| RNF06 | O sistema deve ter disponibilidade mínima de 99% ao mês | Garantir confiabilidade e acesso contínuo | Práticas comuns de plataformas educacionais |
+| RNF07 | A plataforma deve respeitar as normas de LGPD | Garantir segurança e privacidade de dados | Todas |
+| RNF08 | O conteúdo deve ser organizado por níveis de complexidade | Facilitar o aprendizado progressivo | Minuto na Terra |
+| RNF09 | A plataforma deve estar otimizada para SEO | Facilitar a descoberta dos conteúdos via buscadores | Ciência Todo Dia, Manual do Mundo |
+| RNF10 | O tempo de resposta das páginas não deve exceder 2 segundos | Garantir navegação fluida | Manual do Mundo |
+| RNF11 | O sistema deve suportar alta simultaneidade de acessos (mín. 1000 usuários simultâneos) | Manter estabilidade durante picos de acesso | Ciência Todo Dia |
+| RNF12 | Deve haver um sistema de cache para vídeos já assistidos | Aumentar performance e reduzir recarregamentos | YouTube (referência geral) |
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
+
