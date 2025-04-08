@@ -131,5 +131,12 @@
 | RNF09  | O sistema deve notificar os usuários sobre interações em seus posts.                | Incentivar o retorno à plataforma e engajamento contínuo.                         | Quora / Reddit         |
 | RNF10  | O conteúdo deve ser indexado para aparecer em mecanismos de busca externos (SEO).   | Aumentar a visibilidade e atrair novos usuários por meio do Google e similares.   | Quora / Stack Overflow |
 
+## Bibliografia
+
+[1] QUORA. Quora. Disponível em: <https://www.quora.com/>. Acesso em: 8 abr. 2025.
+
+[2] REDDIT. Reddit – r/astronomy. Disponível em: <https://www.reddit.com/r/astronomy/>. Acesso em: 8 abr. 2025.
+
+[3] STACK OVERFLOW. Stack Overflow. Disponível em: <https://stackoverflow.com/>. Acesso em: 8 abr. 2025.
 
 
