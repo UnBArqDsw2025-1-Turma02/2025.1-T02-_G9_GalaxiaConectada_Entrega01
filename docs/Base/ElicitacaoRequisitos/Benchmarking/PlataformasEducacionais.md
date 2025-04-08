@@ -175,3 +175,18 @@ Site com foco em conteúdo teórico de física, resumos, exercícios resolvidos,
 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
+
+## Bibliografia
+
+[1] CANAL DO PROFESSOR BOARO. Canal do Professor Boaro. YouTube. Disponível em: <https://www.youtube.com/@professorboaro>. Acesso em: 8 abr. 2025.
+
+[2] DUOLINGO. Duolingo. Disponível em: <https://www.duolingo.com/>. Acesso em: 8 abr. 2025.
+
+[3] FÍSICA E VESTIBULAR. Física e Vestibular. Disponível em: <https://www.fisicaevestibular.com.br/>. Acesso em: 8 abr. 2025.
+
+[4] KHAN ACADEMY. Khan Academy. Disponível em: <https://pt.khanacademy.org/>. Acesso em: 8 abr. 2025.
+
+[5] PORTUGUÊS CORUJA. Português Coruja. Disponível em: <https://portuguescoruja.com.br/>. Acesso em: 8 abr. 2025.
+
+[6] UDEMY. Udemy. Disponível em: <https://www.udemy.com/>. Acesso em: 8 abr. 2025.
+
