@@ -2,7 +2,6 @@
 
 ## Sumário
 
-* [Introdução](#Introdução)
 * [Khan Academy](#Khan-Academy)
 * [Duolingo](#Duolingo)
 * [Português Coruja](#Português-Coruja)
