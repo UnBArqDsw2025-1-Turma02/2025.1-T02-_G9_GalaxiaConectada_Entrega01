@@ -147,4 +147,4 @@
 | RNF09  | A plataforma deve oferecer suporte multilíngue ou adaptável à linguagem do navegador.  | Ampliar o alcance internacional e inclusão linguística.                                  | NeuroNation               |
 | RNF10  | O sistema deve registrar estatísticas de uso para análise e melhoria contínua.         | Permitir melhorias baseadas em dados reais de uso.                                       | Supera / NeuroNation      |
 
-
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
