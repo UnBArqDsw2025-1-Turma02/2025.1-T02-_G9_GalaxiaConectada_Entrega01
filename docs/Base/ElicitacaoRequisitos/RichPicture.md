@@ -70,6 +70,7 @@ Abaixo se encontra o rich picture:
   <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/RichPicture.jpg" alt="Abrir PDF" width="1000">
 </a>
 
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 </details>
 
