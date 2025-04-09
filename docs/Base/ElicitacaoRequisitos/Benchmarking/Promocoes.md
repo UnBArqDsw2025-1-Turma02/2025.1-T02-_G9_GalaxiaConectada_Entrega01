@@ -85,14 +85,10 @@ Plataforma colaborativa de promoções em tempo real, onde os próprios usuário
 |--------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------|
 | RF01   | O sistema deve exibir uma lista de promoções organizadas por categoria.                  | Facilitar a busca de ofertas relevantes.                                                   | Promobit / Cuponomia |
 | RF02   | O sistema deve permitir que os usuários filtrem promoções por tipo, data ou valor.       | Oferecer personalização na busca de promoções.                                             | Promobit           |
-| RF03   | O sistema deve permitir que usuários avaliem e comentem promoções.                       | Promover a confiança e o engajamento entre os usuários.                                    | Promobit           |
-| RF04   | O sistema deve disponibilizar cupons de desconto com instruções de uso.                  | Aumentar a usabilidade dos descontos.                                                      | Cuponomia          |
-| RF05   | O sistema deve permitir que o usuário favorite ou salve promoções para ver depois.       | Manter o interesse ativo e facilitar o retorno.                                            | Promobit / Cuponomia |
-| RF06   | O sistema deve notificar os usuários sobre promoções relevantes por e-mail ou push.      | Manter os usuários informados e engajados.                                                 | Cuponomia          |
-| RF07   | O sistema deve exibir datas de validade e detalhes da promoção de forma clara.           | Evitar frustrações e aumentar a transparência.                                             | Promobit / Cuponomia |
-| RF08   | O sistema deve permitir login para acompanhar histórico e preferências de promoções.     | Personalizar a experiência do usuário.                                                     | Cuponomia          |
-| RF09   | O sistema deve permitir reportar promoções expiradas ou enganosas.                       | Manter a qualidade das informações.                                                        | Promobit           |
-| RF10   | O sistema deve integrar links para sites parceiros ou externos com segurança.            | Direcionar o usuário para compras sem comprometer sua segurança.                          | Cuponomia          |
+| RF03   | O sistema deve permitir que o usuário favorite ou salve promoções para ver depois.       | Manter o interesse ativo e facilitar o retorno.                                            | Promobit / Cuponomia |
+| RF04   | O sistema deve notificar os usuários sobre promoções relevantes por e-mail ou push.      | Manter os usuários informados e engajados.                                                 | Cuponomia          |
+| RF05   | O sistema deve permitir reportar promoções expiradas ou enganosas.                       | Manter a qualidade das informações.                                                        | Promobit           |
+| RF06   | O sistema deve integrar links para sites parceiros ou externos com segurança.            | Direcionar o usuário para compras sem comprometer sua segurança.                          | Cuponomia          |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -100,16 +96,7 @@ Plataforma colaborativa de promoções em tempo real, onde os próprios usuário
 
 | Código | Requisito Não Funcional                                                                   | Objetivo                                                                                     | Origem             |
 |--------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------|
-| RNF01  | O sistema deve ser responsivo e acessível em dispositivos móveis.                          | Ampliar o acesso dos usuários.                                                               | Cuponomia / Promobit |
-| RNF02  | O tempo de carregamento de páginas não deve exceder 3 segundos.                            | Melhorar a experiência do usuário.                                                           | Cuponomia          |
-| RNF03  | O sistema deve seguir padrões de segurança em redirecionamentos e cupons.                  | Garantir a proteção dos usuários.                                                            | Cuponomia / Promobit |
-| RNF04  | O sistema deve usar HTTPS em todas as páginas.                                             | Assegurar a privacidade dos dados dos usuários.                                              | Cuponomia          |
-| RNF05  | O sistema deve permitir integração com redes sociais e login via Google/Facebook.         | Facilitar o acesso e compartilhamento.                                                       | Promobit           |
-| RNF06  | A interface deve ser intuitiva, com destaque para promoções em destaque.                  | Aumentar o engajamento e facilitar a navegação.                                              | Cuponomia / Promobit |
-| RNF07  | O sistema deve garantir alta disponibilidade (acima de 99%).                              | Manter o serviço sempre acessível.                                                           | Promobit           |
-| RNF08  | O sistema deve suportar atualizações frequentes de conteúdo promocional.                  | Garantir informações atualizadas.                                                            | Cuponomia          |
-| RNF09  | O sistema deve usar layout leve e otimizado para diferentes conexões.                      | Melhorar desempenho em diferentes localidades e redes.                                       | Promobit           |
-| RNF10  | O sistema deve armazenar apenas os dados essenciais dos usuários com consentimento.        | Cumprir com a LGPD e reforçar a segurança de dados.                                          | Cuponomia          |
+| RNF01  | O sistema deve suportar atualizações frequentes de conteúdo promocional.                  | Garantir informações atualizadas.                                                            | Cuponomia          |
 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
@@ -120,3 +107,10 @@ Plataforma colaborativa de promoções em tempo real, onde os próprios usuário
 [1] CUPONOMIA. Cuponomia. Disponível em: <https://www.cuponomia.com.br/>. Acesso em: 6 abr. 2025.
 
 [2] PROMOBIT. Promobit. Disponível em: <https://www.promobit.com.br/>. Acesso em: 6 abr. 2025.
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
+| 1.1 | Adicionar as imagens | Larissa Stéfane | 07/04/2024 |
+| 1.2 | Adicionar tabela com os requisitos | Larissa Stéfane | 07/04/2024 |
+| 1.3 | Arrumar a tabela de requisitos| Larissa Stéfane | 08/04/2024 |
