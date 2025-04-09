@@ -32,16 +32,31 @@ Posteriormente, as ideias surgidas na criação do mapa mental foram organizadas
 
 Abaixo, há o mapa mental criado:
 
+**Observação:** Para analisar o brainstorming de forma ampliada e em seus detalhes, clique na imagem e ela será aberta em uma nova aba, a qual lhe permitirá explorá-lo com um zoom.
+
 <div align="center">
     Figura 1: Mapa Mental Brainstorming
     <br>
-    <img src="https://github.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/blob/main/docs/Base/Imagens/BrainstormTeste.png?raw=true">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/50c4dd8d332e240d214353e5961adc3afb31aa75/docs/Base/Imagens/Brainstorming_GalaxiaConectada.jpg">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
 </div>
 
-**Observação**: Para poder ler e analisar o mapa mental com todos os seus detalhes, baixe a imagem ao apertar na imagem o botão direito.
+
+**Observação2:** Caso deseje baixar o rich picture em PDF, clique na mensagem abaixo e o pdf será mostrado. Para baixá-lo, basta clicar nele.
+
+<details>
+  <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
+
+<a href="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/Brainstorming_GalaxiaConectada.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/Brainstorming_GalaxiaConectada.jpg" alt="Abrir PDF" width="1000">
+</a>
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</details>
+
 
 ##  Quadro de Insights
 
@@ -132,3 +147,4 @@ Ao se colocar as ideias iniciais em um mapa mental e em um quadro de insights, f
 | 1.0 | Elaboração do documento| Larissa Stéfane | 05/04/2024 |
 | 1.1 | Adicionar as imagens do mapa mental e do quadro de insights | Larissa Stéfane | 05/04/2024 |
 | 1.2 | Adicionar tabela com os requisitos | Larissa Stéfane | 06/04/2024 |
+| 1.3 | Adicionar novas imagens do Brainstorming | Larissa Stéfane | 08/04/2024 |
