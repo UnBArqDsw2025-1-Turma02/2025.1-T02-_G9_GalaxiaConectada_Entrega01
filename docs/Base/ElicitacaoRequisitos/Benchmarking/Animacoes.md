@@ -166,14 +166,11 @@
 | RF02 | Utilizar linguagem lúdica e acessível nos vídeos | Facilitar a compreensão de temas complexos | Um Minuto no Museu, De Onde Vem |
 | RF03 | Categorizar os vídeos por tema, faixa etária e complexidade | Organizar o conteúdo e facilitar o acesso | Manual do Mundo, Minuto na Terra |
 | RF04 | Permitir visualização direta dos vídeos na plataforma | Evitar redirecionamentos e melhorar experiência | Ciência Todo Dia |
-| RF05 | Exibir descrição e links úteis abaixo de cada vídeo | Complementar o conteúdo audiovisual | Manual do Mundo |
-| RF06 | Integrar vídeos às trilhas de aprendizado da plataforma | Conectar vídeos a objetivos pedagógicos | Minuto na Terra |
+| RF05 | Exibir descrição e links úteis abaixo de cada vídeo | Complementar o conteúdo audiovisual | - |
+| RF06 | Integrar vídeos às trilhas de aprendizado da plataforma | Conectar vídeos a objetivos pedagógicos | - |
 | RF07 | Recomendação automática de vídeos relacionados | Estimular o consumo contínuo de conteúdo | YouTube-style (todos) |
-| RF08 | Disponibilizar quizzes interativos após os vídeos | Reforçar o aprendizado de forma divertida | Manual do Mundo, Ciência Todo Dia |
-| RF09 | Produzir conteúdos com animações, personagens e narração envolvente | Aumentar o engajamento com o público jovem | Um Minuto no Museu, De Onde Vem |
-| RF10 | Permitir favoritar e compartilhar vídeos | Estimular a criação de comunidade e recorrência | Ciência Todo Dia, YouTube |
-| RF11 | Integrar conteúdos de criadores educativos parceiros | Ampliar o acervo de qualidade da plataforma | Manual do Mundo, Ciência Todo Dia |
-| RF12 | Incluir filtros por duração, público-alvo e temas | Oferecer navegação personalizada | De Onde Vem, Ciência Todo Dia |
+| RF08 | Integrar conteúdos de criadores educativos parceiros | Ampliar o acervo de qualidade da plataforma | - |
+| RF09 | Incluir filtros por duração, público-alvo e temas | Oferecer navegação personalizada | - |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -181,18 +178,13 @@
 
 | Código | Requisito Não Funcional | Objetivo | Origem |
 |--------|--------------------------|----------|--------|
-| RNF01 | O sistema deve carregar vídeos em até 3 segundos | Garantir uma boa experiência de usuário | YouTube, Ciência Todo Dia |
-| RNF02 | A plataforma deve ser compatível com dispositivos móveis e tablets | Acessibilidade ampla para diferentes públicos | Manual do Mundo, De Onde Vem |
-| RNF03 | A interface deve utilizar linguagem simples e acessível | Facilitar o uso por crianças e iniciantes | Um Minuto no Museu, De Onde Vem |
-| RNF04 | Os vídeos devem ter suporte para legendas em pelo menos 2 idiomas | Aumentar a inclusão e acessibilidade | Ciência Todo Dia, Minuto na Terra |
-| RNF05 | O design visual deve ser atrativo, colorido e didático | Engajar usuários de diferentes faixas etárias | Manual do Mundo, Um Minuto no Museu |
-| RNF06 | O sistema deve ter disponibilidade mínima de 99% ao mês | Garantir confiabilidade e acesso contínuo | Práticas comuns de plataformas educacionais |
-| RNF07 | A plataforma deve respeitar as normas de LGPD | Garantir segurança e privacidade de dados | Todas |
-| RNF08 | O conteúdo deve ser organizado por níveis de complexidade | Facilitar o aprendizado progressivo | Minuto na Terra |
-| RNF09 | A plataforma deve estar otimizada para SEO | Facilitar a descoberta dos conteúdos via buscadores | Ciência Todo Dia, Manual do Mundo |
-| RNF10 | O tempo de resposta das páginas não deve exceder 2 segundos | Garantir navegação fluida | Manual do Mundo |
-| RNF11 | O sistema deve suportar alta simultaneidade de acessos (mín. 1000 usuários simultâneos) | Manter estabilidade durante picos de acesso | Ciência Todo Dia |
-| RNF12 | Deve haver um sistema de cache para vídeos já assistidos | Aumentar performance e reduzir recarregamentos | YouTube (referência geral) |
+| RNF01 | O sistema deve carregar vídeos em até 3 segundos | Garantir uma boa experiência de usuário | YouTube-style (todos) |
+| RNF02 | A plataforma deve ser compatível com dispositivos móveis e tablets | Acessibilidade ampla para diferentes públicos | YouTube-style (todos) |
+| RNF03 | Os vídeos devem ter suporte para legendas em pelo menos 2 idiomas | Aumentar a inclusão e acessibilidade | - |
+| RNF04 | O conteúdo deve ser organizado por níveis de complexidade | Facilitar o aprendizado progressivo | - |
+| RNF05 | A plataforma deve estar otimizada para SEO | Facilitar a descoberta dos conteúdos via buscadores | YouTube-style (todos) |
+| RNF06 | O tempo de resposta das páginas não deve exceder 2 segundos | Garantir navegação fluida | Manual do Mundo ||
+| RNF07 | Deve haver um sistema de cache para vídeos já assistidos | Aumentar performance e reduzir recarregamentos | YouTube (referência geral) |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
 
@@ -208,3 +200,11 @@
 
 [5] UM MINUTO NO MUSEU. Disponível em: https://www.youtube.com/watch?v=qKQNYPV8n30&list=PLXLB812R3GOmijo_-Vi512KbohOBQPiWM. Acesso em: 6 abr. 2025.
 
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
+| 1.1 | Adicionar as imagens | Larissa Stéfane | 07/04/2024 |
+| 1.2 | Adicionar tabela com os requisitos | Larissa Stéfane | 07/04/2024 |
+| 1.3 | Arrumar a tabela de requisitos| Larissa Stéfane | 08/04/2024 |
