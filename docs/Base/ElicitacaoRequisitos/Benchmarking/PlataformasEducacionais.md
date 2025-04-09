@@ -200,15 +200,13 @@ Site com foco em conteúdo teórico de física, resumos, exercícios resolvidos,
 | Código | Requisito Funcional                                                                     | Objetivo                                                                                      | Origem                          |
 |--------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------|
 | RF01   | O sistema deve oferecer trilhas de aprendizagem organizadas por temas e níveis.         | Guiar o usuário de forma progressiva no aprendizado.                                          | Khan Academy / Duolingo         |
-| RF02   | O sistema deve disponibilizar conteúdos em múltiplos formatos (vídeo, texto, quiz).     | Atender diferentes estilos de aprendizagem.                                                   | Udemy / Professor Boaro / Duolingo |
+| RF02   | O sistema deve disponibilizar conteúdos em múltiplos formatos (vídeo, texto, quiz).     | Atender diferentes estilos de aprendizagem.                                                   | Khan Academy/ Udemy / Professor Boaro / Duolingo |
 | RF03   | O sistema deve permitir que o usuário acompanhe seu progresso nas trilhas.              | Estimular o engajamento e permitir autogestão da aprendizagem.                               | Duolingo / Khan Academy         |
 | RF04   | O sistema deve permitir avaliações com feedback imediato.                               | Promover o reforço positivo e a correção de erros.                                            | Khan Academy / Duolingo         |
 | RF05   | O sistema deve sugerir próximos passos com base no desempenho do usuário.               | Oferecer personalização e incentivo contínuo.                                                 | Duolingo / Udemy                |
-| RF06   | O sistema deve permitir o salvamento de conteúdos favoritos.                            | Facilitar revisitas e organização do conteúdo.                                                | Português Coruja / YouTube      |
-| RF07   | O sistema deve permitir busca por assuntos, vídeos e exercícios por palavras-chave.     | Aumentar a autonomia e acessibilidade ao conteúdo.                                            | Khan Academy / Udemy            |
-| RF08   | O sistema deve permitir a criação de playlists ou coleções de conteúdo.                 | Organizar o aprendizado de forma personalizada.                                               | Udemy / YouTube (Boaro)         |
-| RF09   | O sistema deve permitir que usuários comentem e interajam em alguns conteúdos.          | Promover discussão e engajamento entre aprendizes.                                            | YouTube / Português Coruja      |
-| RF10   | O sistema deve exibir certificados de conclusão de trilhas ou cursos.                   | Recompensar a aprendizagem e incentivar a finalização.                                        | Khan Academy / Udemy            |
+| RF06   | O sistema deve permitir busca por assuntos, vídeos e exercícios por palavras-chave.     | Aumentar a autonomia e acessibilidade ao conteúdo.                                            | Khan Academy / Udemy            |
+| RF08   | O sistema deve permitir que usuários comentem e interajam em alguns conteúdos.          | Promover discussão e engajamento entre aprendizes.                                            | YouTube / Português Coruja      |
+| RF09   | O sistema deve exibir certificados de conclusão de trilhas ou cursos.                   | Recompensar a aprendizagem e incentivar a finalização.                                        | Udemy            |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -216,16 +214,8 @@ Site com foco em conteúdo teórico de física, resumos, exercícios resolvidos,
 
 | Código | Requisito Não Funcional                                                                 | Objetivo                                                                                     | Origem                          |
 |--------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------|
-| RNF01  | O sistema deve ser responsivo e compatível com dispositivos móveis e tablets.            | Garantir acesso em diferentes dispositivos.                                                  | Todos os sites                  |
-| RNF02  | O sistema deve garantir tempo de carregamento inferior a 3 segundos.                     | Melhorar a experiência do usuário.                                                           | Duolingo / Khan Academy         |
-| RNF03  | O sistema deve ser compatível com navegadores modernos.                                  | Aumentar o alcance da plataforma.                                                            | Todos os sites                  |
-| RNF04  | A plataforma deve seguir diretrizes de acessibilidade (ex: contraste, navegação por teclado). | Incluir usuários com necessidades especiais.                                           | Khan Academy / Português Coruja |
-| RNF05  | O sistema deve armazenar dados de progresso com segurança e criptografia.                | Proteger dados pessoais e de aprendizagem.                                                  | Duolingo / Udemy                |
-| RNF06  | O conteúdo deve ser otimizado para SEO.                                                   | Aumentar a visibilidade e tráfego orgânico.                                                  | Português Coruja / YouTube      |
-| RNF07  | O sistema deve funcionar com disponibilidade superior a 99%.                             | Assegurar acesso contínuo.                                                                  | Khan Academy / Udemy            |
-| RNF08  | A plataforma deve utilizar layout intuitivo com foco no conteúdo educativo.              | Reduzir curva de aprendizado e facilitar a navegação.                                        | Português Coruja / Khan Academy |
-| RNF09  | O sistema deve disponibilizar navegação multilíngue.                                     | Ampliar o alcance internacional.                                                             | Duolingo / Khan Academy         |
-| RNF10  | O sistema deve registrar métricas de uso para análise de impacto e melhoria contínua.    | Tomar decisões com base em dados reais de uso.                                              | Udemy / Duolingo                |
+| RNF01  | O sistema deve garantir tempo de carregamento inferior a 3 segundos.                     | Melhorar a experiência do usuário.                                                           | Duolingo / Khan Academy         |
+| RNF02  | O sistema deve armazenar dados de progresso com segurança e criptografia.                | Proteger dados pessoais e de aprendizagem.                                                  | Duolingo / Udemy                |
 
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
@@ -244,3 +234,9 @@ Site com foco em conteúdo teórico de física, resumos, exercícios resolvidos,
 
 [6] UDEMY. Udemy. Disponível em: <https://www.udemy.com/>. Acesso em: 6 abr. 2025.
 
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
+| 1.1 | Adicionar as imagens | Larissa Stéfane | 07/04/2024 |
+| 1.2 | Adicionar tabela com os requisitos | Larissa Stéfane | 07/04/2024 |
+| 1.3 | Arrumar a tabela de requisitos| Larissa Stéfane | 08/04/2024 |
