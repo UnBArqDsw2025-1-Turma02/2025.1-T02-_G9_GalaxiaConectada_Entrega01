@@ -101,33 +101,43 @@ A seguir, os sites analisados foram divididos conforme seus respectivos focos:
 <details>
   <summary size="20"><b> Requisitos funcionais elicitados com o benchmarking </b></summary> 
   
-| Código | Requisito Funcional | Objetivo |
-|--------|---------------------|----------|
-| RF01 | Permitir cadastro de usuários com e-mail e senha | Gerenciar contas e personalizar experiências |
-| RF02 | Permitir login com autenticação segura | Garantir acesso autorizado ao conteúdo |
-| RF03 | Exibir trilhas de aprendizagem por tema | Guiar o aprendizado do usuário |
-| RF04 | Incluir jogos educativos interativos | Estimular o aprendizado lúdico |
-| RF05 | Oferecer fórum para dúvidas e discussões | Promover troca de conhecimento entre usuários |
-| RF06 | Permitir publicação de artigos e textos educativos | Compartilhar conteúdo com a comunidade |
-| RF07 | Exibir agenda com eventos e datas astronômicas | Manter o público atualizado |
-| RF08 | Incluir recursos para upload e visualização de fotos da comunidade | Estimular engajamento visual |
-| RF09 | Permitir a avaliação de conteúdo por meio de curtidas/comentários | Promover interações |
-| RF10 | Incluir sistema de perguntas e respostas por categorias | Facilitar localização de dúvidas/respostas |
-| RF11 | Oferecer busca por palavras-chave em todo o site | Melhorar a navegação |
-| RF12 | Categorizar conteúdos por nível (iniciante, intermediário, avançado) | Personalizar a experiência de aprendizado |
-| RF13 | Permitir que administradores moderem o conteúdo publicado | Manter qualidade e segurança |
-| RF14 | Incluir sistema de denúncias para moderação comunitária | Promover ambiente seguro |
-| RF15 | Disponibilizar vídeos explicativos e tutoriais | Facilitar o entendimento de conteúdos complexos |
-| RF16 | Exibir sugestões de leitura e links relacionados ao final dos artigos | Incentivar exploração de temas |
-| RF17 | Integrar newsletter com atualizações regulares | Manter usuários engajados |
-| RF18 | Permitir salvar conteúdos favoritos | Ajudar na organização pessoal de estudo |
-| RF19 | Apresentar rankings ou conquistas baseadas em interações ou jogos | Estimular engajamento gamificado |
-| RF20 | Exibir notícias científicas atualizadas | Informar sobre descobertas recentes |
-| RF21 | Oferecer acesso a e-books e materiais complementares | Expandir as formas de aprendizado |
-| RF22 | Integrar com redes sociais para compartilhamento de conteúdo | Aumentar o alcance da plataforma |
-| RF23 | Permitir feedback dos usuários sobre recursos da plataforma | Coletar opiniões para melhorias |
-| RF24 | Incluir recursos acessíveis (ex: alto contraste, leitor de tela) | Promover inclusão |
-| RF25 | Disponibilizar simuladores e experiências interativas | Tornar o aprendizado mais prático |
+| Código | Requisito Funcional                                                                 | Rastreabilidade                             |
+|--------|--------------------------------------------------------------------------------------|---------------------------------------------|
+| RF01   | Disponibilizar vídeos educativos organizados por tema, faixa etária e complexidade. | Animações                                   |
+| RF02   | Integrar vídeos e recursos multimídia (áudio, imagem, podcasts) às trilhas de aprendizado. | Animações, Divulgação Científica, Plataformas educacionais |
+| RF03   | Utilizar linguagem acessível e lúdica nos conteúdos audiovisuais.                   | Animações                                   |
+| RF04   | Permitir visualização direta de vídeos e conteúdos na plataforma.                   | Animações, Divulgação Científica            |
+| RF05   | Exibir descrições, links úteis e informações complementares aos conteúdos.          | Animações, Divulgação Científica            |
+| RF06   | Recomendação automática de conteúdos relacionados com base no histórico do usuário. | Animações, Jogos, Plataformas educacionais  |
+| RF07   | Oferecer trilhas de aprendizado organizadas por tema e nível de conhecimento.       | Divulgação Científica, Plataformas educacionais |
+| RF08   | Permitir acesso a artigos e materiais com diferentes níveis de profundidade.        | Divulgação Científica                       |
+| RF09   | Classificar conteúdos por categoria, complexidade e não apenas por data.            | Divulgação Científica                       |
+| RF10   | Permitir busca eficiente por conteúdos diversos da plataforma.                      | Divulgação Científica, Fóruns, Plataformas educacionais |
+| RF11   | Notificar sobre eventos astronômicos ou promoções relevantes.                       | Divulgação Científica, Promoções            |
+| RF12   | Exibir uma agenda de eventos científicos/astronômicos atualizada.                   | Divulgação Científica                       |
+| RF13   | Disponibilizar seção de notícias e atualizações científicas.                        | Divulgação Científica                       |
+| RF14   | Permitir publicação de perguntas, respostas e postagens livres em fóruns.           | Fóruns                                      |
+| RF15   | Permitir comentários, curtidas/descurtidas e marcação de resposta como “aceita”.    | Fóruns                                      |
+| RF16   | Organizar fóruns com tags, categorias e filtros temáticos.                          | Fóruns                                      |
+| RF17   | Oferecer perfis de usuários com reputação e histórico.                              | Fóruns                                      |
+| RF18   | Disponibilizar área de destaque com conteúdos populares no fórum.                   | Fóruns                                      |
+| RF19   | Disponibilizar jogos interativos de lógica, memória e conhecimentos.                | Jogos                                       |
+| RF20   | Disponibilizar novos desafios ou jogos com frequência.                              | Jogos                                       |
+| RF21   | Oferecer jogos com níveis de dificuldade variados e progressão.                     | Jogos                                       |
+| RF22   | Permitir acompanhar desempenho e progresso nos jogos.                               | Jogos                                       |
+| RF23   | Exibir rankings, conquistas e recompensas.                                          | Jogos                                       |
+| RF24   | Disponibilizar jogos em diferentes formatos (texto, áudio, visual).                 | Jogos                                       |
+| RF25   | Permitir classificação de jogos por habilidade ou categoria.                        | Jogos                                       |
+| RF26   | Permitir comentários e interação entre usuários em conteúdos selecionados.          | Plataformas educacionais                   |
+| RF27   | Permitir avaliações com feedback imediato.                                          | Plataformas educacionais                   |
+| RF28   | Sugerir próximos passos com base no desempenho do usuário.                          | Plataformas educacionais                   |
+| RF29   | Permitir emissão de certificados de conclusão.                                      | Plataformas educacionais                   |
+| RF30   | Exibir lista de promoções organizadas por categoria, data e valor.                  | Promoções                                   |
+| RF31   | Permitir favoritar ou salvar promoções.                                             | Promoções                                   |
+| RF32   | Permitir ao usuário reportar promoções expiradas ou enganosas.                      | Promoções                                   |
+| RF33   | Integrar links de sites parceiros de forma segura.                                  | Promoções                                   |
+
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
