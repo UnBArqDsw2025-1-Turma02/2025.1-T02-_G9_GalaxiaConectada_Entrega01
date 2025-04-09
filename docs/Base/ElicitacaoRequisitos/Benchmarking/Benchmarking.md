@@ -44,7 +44,7 @@ A seguir, os sites analisados foram divididos conforme seus respectivos focos:
 - [NASA Science](https://science.nasa.gov)
 - [EarthSky](https://earthsky.org)
 
-Para ver a o benchmarking deste tópico clique em: [Benchmarking:Divulgação Científica](docs/Base/ElicitacaoRequisitos/Benchmarking/DivulgacaoCientifica.md)
+Para ver a o benchmarking deste tópico clique em: [Benchmarking:Divulgação Científica](DivulgacaoCientifica.md)
 
 </details>
 
