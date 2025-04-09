@@ -164,15 +164,14 @@
 | Código | Requisito Funcional                                                                     | Objetivo                                                                                       | Origem                     |
 |--------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------|
 | RF01   | O sistema deve disponibilizar jogos interativos de lógica, memória e conhecimentos.     | Promover o aprendizado lúdico e estimular o raciocínio.                                       | Racha Cuca / NeuroNation   |
-| RF02   | O sistema deve permitir acesso diário a novos desafios ou jogos.                        | Estimular a frequência de uso e senso de progresso contínuo.                                  | Bandle / Racha Cuca        |
+| RF02   | O sistema deve permitir acesso diário a novos desafios ou jogos.                        | Estimular a frequência de uso e senso de progresso contínuo.                                  | Bandle / Racha Cuca/ Português Coruja       |
 | RF03   | O sistema deve oferecer jogos com diferentes níveis de dificuldade.                     | Atender usuários iniciantes e avançados, promovendo progressão.                               | NeuroNation / Supera       |
 | RF04   | O sistema deve permitir ao usuário acompanhar seu desempenho (pontuação, progresso etc).| Fornecer feedback e senso de evolução no aprendizado.                                          | NeuroNation / Supera       |
 | RF05   | O sistema deve exibir rankings ou conquistas para motivação.                            | Criar competitividade saudável e incentivo ao retorno.                                         | Bandle / Supera            |
 | RF06   | O sistema deve oferecer sugestões de jogos com base no histórico do usuário.            | Personalizar a experiência conforme preferências individuais.                                 | NeuroNation                |
 | RF07   | O sistema deve permitir que os jogos sejam classificados por categoria ou habilidade.   | Facilitar a busca por jogos relacionados a interesses específicos.                            | Racha Cuca / Português Coruja |
 | RF08   | O sistema deve disponibilizar jogos em diferentes formatos (texto, áudio, visual).      | Atender diferentes estilos de aprendizagem e acessibilidade.                                  | Português Coruja / Supera  |
-| RF09   | O sistema deve permitir que usuários salvem seus jogos favoritos ou desafios preferidos.| Oferecer acesso rápido a conteúdos que o usuário goste de repetir.                            | Racha Cuca / Bandle        |
-| RF10   | O sistema deve oferecer desafios temáticos ou sazonais.                                 | Engajar o público com conteúdo atualizado e relevante ao momento.                             | Racha Cuca / Bandle        |
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -180,16 +179,9 @@
 
 | Código | Requisito Não Funcional                                                               | Objetivo                                                                                 | Origem                    |
 |--------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------|
-| RNF01  | O sistema deve ser responsivo e acessível em dispositivos móveis e tablets.            | Permitir acesso em diferentes plataformas.                                               | Todos os sites            |
-| RNF02  | Os jogos devem carregar em até 3 segundos após o clique do usuário.                    | Garantir fluidez e reduzir frustrações com lentidão.                                     | Bandle / NeuroNation      |
-| RNF03  | O sistema deve ser compatível com navegadores modernos (Chrome, Firefox, etc.).        | Ampliar o alcance e acessibilidade da plataforma.                                        | Todos os sites            |
-| RNF04  | O sistema deve seguir diretrizes de acessibilidade (ex: contraste, navegação por teclado). | Incluir usuários com deficiência.                                                   | Português Coruja / Supera |
-| RNF05  | A plataforma deve armazenar os dados de progresso do usuário com segurança.            | Proteger informações pessoais e evitar perda de progresso.                               | NeuroNation / Supera      |
-| RNF06  | O sistema deve manter taxa de disponibilidade (uptime) superior a 99%.                 | Evitar indisponibilidades e manter confiança dos usuários.                               | NeuroNation / Racha Cuca  |
-| RNF07  | O sistema deve apresentar interface intuitiva e centrada no jogo.                      | Facilitar a navegação e foco nos desafios.                                               | Bandle / Português Coruja |
-| RNF08  | O conteúdo deve ser otimizado para SEO(Search Engine Optimization).                                                 | Aumentar visibilidade em buscadores e atrair novos usuários.                             | Racha Cuca / Português Coruja |
-| RNF09  | A plataforma deve oferecer suporte multilíngue ou adaptável à linguagem do navegador.  | Ampliar o alcance internacional e inclusão linguística.                                  | NeuroNation               |
-| RNF10  | O sistema deve registrar estatísticas de uso para análise e melhoria contínua.         | Permitir melhorias baseadas em dados reais de uso.                                       | Supera / NeuroNation      |
+| RNF01  | O sistema deve seguir diretrizes de acessibilidade (ex: contraste, navegação por teclado). | Incluir usuários com deficiência.                                                   | Português Coruja / Supera |
+| RNF02  | A plataforma deve armazenar os dados de progresso do usuário com segurança.            | Proteger informações pessoais e evitar perda de progresso.                               | NeuroNation / Supera      |
+| RNF03  | O sistema deve registrar estatísticas de uso para análise e melhoria contínua.         | Permitir melhorias baseadas em dados reais de uso.                                       | Supera / NeuroNation      |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>
 
@@ -205,3 +197,10 @@
 [4] RACHA CUCA. Racha Cuca. Disponível em: <https://rachacuca.com.br/>. Acesso em: 6 abr. 2025.
 
 [5] SUPERA. Supera. Disponível em: <https://www.metodosupera.com.br/>. Acesso em: 6 abr. 2025.
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
+| 1.1 | Adicionar as imagens | Larissa Stéfane | 07/04/2024 |
+| 1.2 | Adicionar tabela com os requisitos | Larissa Stéfane | 07/04/2024 |
+| 1.3 | Arrumar a tabela de requisitos| Larissa Stéfane | 08/04/2024 |
