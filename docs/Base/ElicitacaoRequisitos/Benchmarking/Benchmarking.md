@@ -148,33 +148,20 @@ A seguir, os sites analisados foram divididos conforme seus respectivos focos:
 <details>
   <summary size="20"><b> Requisitos não funcionais elicitados com o benchmarking </b></summary>
 
-| Código | Requisito Não Funcional | Objetivo |
-|--------|-------------------------|----------|
-| RNF01 | O site deve carregar em até 3 segundos em conexões padrão | Garantir desempenho e usabilidade |
-| RNF02 | A disponibilidade da plataforma deve ser de 99% ao mês | Garantir confiabilidade |
-| RNF03 | O sistema deve suportar pelo menos 10.000 usuários simultâneos | Escalabilidade |
-| RNF04 | O login deve ser realizado em até 2 segundos | Eficiência |
-| RNF05 | Os dados dos usuários devem ser criptografados | Garantir segurança |
-| RNF06 | O fórum deve ser moderado com tempo de resposta de até 24h | Manter qualidade da comunidade |
-| RNF07 | O sistema deve ser compatível com dispositivos móveis | Acessibilidade multiplataforma |
-| RNF08 | A interface deve seguir diretrizes de usabilidade (ex: heurísticas de Nielsen) | Melhorar experiência do usuário |
-| RNF09 | A navegação deve ser possível com teclado (acessibilidade) | Inclusão de usuários com deficiência |
-| RNF10 | O sistema deve ser compatível com os principais navegadores | Ampliar acessibilidade |
-| RNF11 | O tempo médio de resposta dos servidores deve ser inferior a 500ms | Desempenho |
-| RNF12 | Os conteúdos devem estar disponíveis em pelo menos dois idiomas | Internacionalização |
-| RNF13 | As páginas devem seguir normas de SEO | Facilitar localização em mecanismos de busca |
-| RNF14 | Os conteúdos devem ser atualizados semanalmente | Garantir atualidade |
-| RNF15 | Os dados devem ser armazenados em servidores com backup diário | Confiabilidade de dados |
-| RNF16 | A estrutura de código deve seguir boas práticas (ex: Clean Code) | Manutenção |
-| RNF17 | A plataforma deve ter tempo médio de recuperação de falhas inferior a 1h | Tolerância a falhas |
-| RNF18 | Deve haver logs de erro para rastreabilidade de problemas | Suporte técnico |
-| RNF19 | O sistema deve permitir integração com ferramentas analíticas (ex: Google Analytics) | Medição de uso |
-| RNF20 | A taxa de erros em formulários deve ser inferior a 1% | Confiabilidade |
-| RNF21 | A plataforma deve ser testada em resoluções de 1024x768 a 1920x1080 | Compatibilidade |
-| RNF22 | Deve seguir as normas LGPD para coleta e uso de dados | Conformidade legal |
-| RNF23 | O sistema deve permitir atualizações sem afetar o serviço | Manutenção contínua |
-| RNF24 | O tempo de exibição de feedback visual após ações deve ser inferior a 1s | Usabilidade |
-| RNF25 | O conteúdo multimídia deve estar otimizado para carregamento em conexões 4G | Acessibilidade de mídia |
+| Código  | Requisito Não Funcional                                                                 | Rastreabilidade          |
+|---------|------------------------------------------------------------------------------------------|---------------------------|
+| RNF01   | O sistema deve ser responsivo e acessível em diferentes dispositivos e tamanhos de tela | Animações, Divulgação Científica, Fóruns, Jogos             |
+| RNF02   | O carregamento de páginas e conteúdos multimídia deve ocorrer em até 3 segundos         | Animações, Plataformas Educacionais                         |
+| RNF03   | O sistema deve estar otimizado para SEO e permitir indexação por mecanismos de busca     | Animações, Divulgação Científica, Fóruns                   |
+| RNF04   | O sistema deve ser compatível com leitores de tela, navegação por teclado e seguir diretrizes de acessibilidade (ex: contraste) | Divulgação Científica, Fóruns, Jogos               |
+| RNF05   | O sistema deve suportar múltiplos idiomas ou adaptar-se ao idioma do usuário             | Fóruns, Animações                                            |
+| RNF06   | Os conteúdos devem ser organizados de forma intuitiva, com trilhas, hierarquias e fácil retorno ao início | Divulgação Científica, Fóruns                     |
+| RNF07   | O sistema deve armazenar e proteger dados do usuário com segurança e criptografia        | Jogos, Plataformas Educacionais                             |
+| RNF08   | A plataforma deve registrar estatísticas de uso para análise e melhoria contínua         | Jogos                                                        |
+| RNF09   | Os vídeos devem oferecer suporte a legendas em pelo menos dois idiomas                   | Animações                                                    |
+| RNF10   | O sistema deve permitir atualizações frequentes de conteúdo, especialmente promocional   | Promoções                                                    |
+| RNF11   | Deve haver mecanismos de moderação e notificação para interações dos usuários            | Fóruns                                                       |
+| RNF12   | Todos os recursos publicados devem ser testados e documentados antes da disponibilização | Divulgação Científica                                        |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -184,3 +171,9 @@ A seguir, os sites analisados foram divididos conforme seus respectivos focos:
 
 <a name="ref1"></a>  
 [1] IATA, Cristiane. Benchmarking: muito além de uma simples comparação. Revista Benchmarking, edição 1, dez. 2008. Disponível em: https://pontogp.wordpress.com/2008/12/24/benchmarking-muito-alem-de-uma-simples-comparacao. Acesso em 6 de abril de 2025.
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
+| 1.1 | Adicionar tabela com os requisitos | Larissa Stéfane | 07/04/2024 |
+| 1.2 | Arrumar a tabela de requisitos| Larissa Stéfane | 08/04/2024 |
