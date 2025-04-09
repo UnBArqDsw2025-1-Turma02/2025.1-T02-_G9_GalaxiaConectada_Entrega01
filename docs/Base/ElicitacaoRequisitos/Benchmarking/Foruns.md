@@ -131,7 +131,7 @@
 
 | Código | Requisito Funcional                                                                 | Objetivo                                                                                   | Origem                 |
 |--------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
-| RF01   | O sistema deve permitir que os usuários publiquem perguntas e respostas.            | Fomentar o aprendizado colaborativo e resolução de dúvidas.                               | Quora / Stack Overflow  |
+| RF01   | O sistema deve permitir que os usuários publiquem perguntas e respostas.            | Fomentar o aprendizado colaborativo e resolução de dúvidas.                               | Quora / Stack Overflow/ reddit  |
 | RF02   | O sistema deve permitir a publicação de postagens abertas (sem pergunta).           | Estimular o compartilhamento livre de experiências e curiosidades.                        | Reddit                  |
 | RF03   | O sistema deve permitir comentários em postagens e respostas.                       | Viabilizar conversas e aprofundamento das discussões.                                     | Todos os sites          |
 | RF04   | O sistema deve oferecer uma área de destaques e conteúdos populares.                | Dar visibilidade ao conteúdo mais relevante para a comunidade.                            | Reddit / Stack Overflow |
@@ -139,8 +139,7 @@
 | RF06   | O sistema deve permitir categorização e tags nos tópicos e discussões.              | Facilitar a organização do conteúdo e a busca temática.                                   | Stack Overflow / Quora  |
 | RF07   | O sistema deve ter perfis de usuário com reputação ou histórico de participação.    | Estimular contribuições qualificadas e engajamento contínuo.                              | Stack Overflow / Quora  |
 | RF08   | O sistema deve disponibilizar um mecanismo de busca interno eficiente.              | Ajudar os usuários a encontrar tópicos específicos de forma rápida.                       | Todos os sites          |
-| RF09   | O sistema deve permitir a inserção de mídia (imagens, links etc.) nas postagens.    | Enriquecer o conteúdo com recursos visuais e informativos.                                | Reddit / Quora          |
-| RF10   | O sistema deve permitir a marcação de respostas como “resposta aceita” ou “solução”.| Indicar a resolução de problemas ou dúvidas.                                              | Stack Overflow          |
+| RF09   | O sistema deve permitir a marcação de respostas como “resposta aceita” ou “solução”.| Indicar a resolução de problemas ou dúvidas.                                              | Stack Overflow          |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -148,16 +147,13 @@
 
 | Código | Requisito Não Funcional                                                             | Objetivo                                                                           | Origem                 |
 |--------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------|
-| RNF01  | O sistema deve ser responsivo e adaptável a diferentes tamanhos de tela.            | Permitir o uso confortável em desktop e mobile.                                   | Todos os sites         |
-| RNF02  | O tempo de resposta do servidor deve ser inferior a 2 segundos por requisição.      | Garantir uma navegação fluida e rápida.                                           | Stack Overflow         |
-| RNF03  | O sistema deve ter mecanismos de moderação, como denúncias e aprovação de conteúdo. | Manter um ambiente seguro, focado e com conteúdo relevante.                       | Reddit / Stack Overflow|
-| RNF04  | O sistema deve exibir conteúdo hierarquicamente organizado (por tópicos e tags).    | Facilitar a navegação e localização de discussões.                                | Stack Overflow         |
-| RNF05  | O sistema deve ser acessível, seguindo padrões como WCAG 2.1.                       | Incluir usuários com deficiência.                                                 | Quora / Stack Overflow |
-| RNF06  | O sistema deve suportar múltiplos idiomas ou adaptar-se a idioma padrão do usuário. | Ampliar o alcance da plataforma internacionalmente.                               | Quora                  |
-| RNF07  | O layout deve seguir um design limpo e centrado no conteúdo.                        | Priorizar a leitura e interação com o conteúdo postado.                           | Reddit / Quora         |
-| RNF08  | A plataforma deve garantir estabilidade com uptime superior a 99%.                  | Evitar quedas ou interrupções frequentes no serviço.                              | Stack Overflow         |
-| RNF09  | O sistema deve notificar os usuários sobre interações em seus posts.                | Incentivar o retorno à plataforma e engajamento contínuo.                         | Quora / Reddit         |
-| RNF10  | O conteúdo deve ser indexado para aparecer em mecanismos de busca externos (SEO).   | Aumentar a visibilidade e atrair novos usuários por meio do Google e similares.   | Quora / Stack Overflow |
+
+| RNF01  | O sistema deve ter mecanismos de moderação, como denúncias e aprovação de conteúdo. | Manter um ambiente seguro, focado e com conteúdo relevante.                       | Reddit / Stack Overflow|
+| RNF02  | O sistema deve exibir conteúdo hierarquicamente organizado (por tópicos e tags).    | Facilitar a navegação e localização de discussões.                                | Stack Overflow         |
+| RNF03  | O sistema deve ser acessível, seguindo padrões como WCAG 2.1.                       | Incluir usuários com deficiência.                                                 | Quora / Stack Overflow |
+| RNF04  | O sistema deve suportar múltiplos idiomas ou adaptar-se a idioma padrão do usuário. | Ampliar o alcance da plataforma internacionalmente.                               | Quora                  |
+| RNF05  | O sistema deve notificar os usuários sobre interações em seus posts.                | Incentivar o retorno à plataforma e engajamento contínuo.                         | Quora / Reddit         |
+| RNF06  | O conteúdo deve ser indexado para aparecer em mecanismos de busca externos (SEO).   | Aumentar a visibilidade e atrair novos usuários por meio do Google e similares.   | Quora / Stack Overflow |
 
 ## Bibliografia
 
@@ -167,4 +163,9 @@
 
 [3] STACK OVERFLOW. Stack Overflow. Disponível em: <https://stackoverflow.com/>. Acesso em: 6 abr. 2025.
 
-
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
+| 1.1 | Adicionar as imagens | Larissa Stéfane | 07/04/2024 |
+| 1.2 | Adicionar tabela com os requisitos | Larissa Stéfane | 07/04/2024 |
+| 1.3 | Arrumar a tabela de requisitos| Larissa Stéfane | 08/04/2024 |
