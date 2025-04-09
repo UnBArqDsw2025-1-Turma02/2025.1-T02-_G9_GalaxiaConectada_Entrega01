@@ -61,7 +61,17 @@ Abaixo se encontra o rich picture:
     <br>
 </div>
 
+**Observação2:** Caso deseje baixar o rich picture em PDF, clique na mensagem abaixo e o pdf será mostrado. Para baixá-lo, basta clicar nele.
 
+<details>
+  <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
+
+<a href="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/RichPicturePDF.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/RichPicture.jpg" alt="Abrir PDF" width="1000">
+</a>
+
+
+</details>
 
 ## Conclusão
 
