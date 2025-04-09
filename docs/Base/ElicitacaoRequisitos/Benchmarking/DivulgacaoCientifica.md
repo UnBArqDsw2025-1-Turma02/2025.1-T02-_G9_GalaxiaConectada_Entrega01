@@ -252,13 +252,13 @@ O site cobre temas variados da astronomia com uma linguagem acessível e ênfase
 |--------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------|
 | RF01   | O sistema deve permitir o acesso a artigos com diferentes níveis de profundidade.   | Atender públicos com diferentes níveis de conhecimento.                  | NASA Science           |
 | RF02   | O sistema deve exibir alertas sobre eventos astronômicos atuais.                    | Manter o usuário informado sobre fenômenos observáveis.                  | EarthSky               |
-| RF03   | O sistema deve disponibilizar trilhas temáticas por categoria (ex: Sol, Universo).  | Facilitar a navegação e o aprendizado temático.                          | NASA Science / EarthSky|
-| RF04   | O sistema deve disponibilizar fotos e conteúdos enviados pela comunidade.           | Estimular o engajamento e senso de comunidade.                           | EarthSky               |
+| RF03   | O sistema deve disponibilizar trilhas temáticas por categoria (ex: Sol, Universo).  | Facilitar a navegação e o aprendizado temático.                          | NASA Science / EarthSky/ Atrnomomia no Zênite|
+| RF04   | O sistema deve disponibilizar fotos e conteúdos enviados pela comunidade.           | Estimular o engajamento e senso de comunidade.                           | EarthSky / Céu Profundo            |
 | RF05   | O sistema deve oferecer materiais educativos por público-alvo (crianças, estudantes etc). | Personalizar a experiência conforme o nível de aprendizado.         | NASA Science           |
-| RF06   | O sistema deve integrar recursos multimídia (vídeos, imagens, sons, podcasts etc).  | Tornar o conteúdo mais atrativo e acessível.                             | NASA Science / Zênite  |
-| RF07   | O sistema deve oferecer uma agenda de eventos astronômicos.                         | Planejar observações e estudos baseados em eventos futuros.              | Céu Profundo / EarthSky|
-| RF08   | O sistema deve permitir a busca eficiente por conteúdo.                             | Melhorar a experiência de navegação e localização de artigos.            | Zênite                 |
-| RF09   | O sistema deve classificar artigos por categoria e não apenas por data.             | Facilitar a organização e recuperação da informação.                     | Céu Profundo           |
+| RF06   | O sistema deve integrar recursos multimídia (vídeos, imagens, sons, podcasts etc).  | Tornar o conteúdo mais atrativo e acessível.                             | Todos |
+| RF07   | O sistema deve oferecer uma agenda de eventos astronômicos.                         | Planejar observações e estudos baseados em eventos futuros.              | Céu Profundo / EarthSky/ Zênite|
+| RF08   | O sistema deve permitir a busca eficiente por conteúdo.                             | Melhorar a experiência de navegação e localização de artigos.            | Zênite / Nasa Science                |
+| RF09   | O sistema deve classificar artigos por categoria e não apenas por data.             | Facilitar a organização e recuperação da informação.                     |  Zênite / Nasa Science          |
 | RF10   | O sistema deve apresentar uma seção com notícias científicas atualizadas.           | Informar o público sobre novidades da área.                              | NASA Science / EarthSky|
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
@@ -268,15 +268,11 @@ O site cobre temas variados da astronomia com uma linguagem acessível e ênfase
 | Código | Requisito Não Funcional                                                              | Objetivo                                                            | Origem                |
 |--------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------|
 | RNF01  | O site deve ser responsivo e acessível em diferentes dispositivos.                   | Garantir boa usabilidade em desktop e mobile.                       | Todos os sites         |
-| RNF02  | O tempo de carregamento das páginas deve ser inferior a 3 segundos.                  | Proporcionar uma experiência rápida e fluida.                       | EarthSky / NASA        |
-| RNF03  | O conteúdo multimídia deve ser otimizado para carregamento rápido.                   | Evitar lentidão em redes com baixa velocidade.                      | NASA Science           |
-| RNF04  | O sistema deve estar disponível 99% do tempo.                                         | Garantir confiabilidade e acesso contínuo.                          | NASA Science / EarthSky|
-| RNF05  | As trilhas temáticas devem ter navegação intuitiva e com fácil retorno ao início.    | Facilitar o uso por usuários iniciantes.                            | NASA Science           |
-| RNF06  | O sistema deve ser compatível com leitores de tela e navegação por teclado.          | Promover acessibilidade para pessoas com deficiência.               | NASA Science           |
-| RNF07  | O mecanismo de busca deve apresentar resultados relevantes e filtráveis.             | Otimizar a experiência de pesquisa.                                 | Zênite / Céu Profundo  |
-| RNF08  | O layout deve seguir uma estrutura visual clara e coerente entre páginas.            | Melhorar a usabilidade e estética.                                  | EarthSky / Céu Profundo|
-| RNF09  | O site deve utilizar linguagem clara e acessível para diferentes faixas etárias.     | Ampliar a compreensão e inclusão de públicos diversos.              | EarthSky / NASA        |
-| RNF10  | Os recursos devem ser documentados e testados antes da publicação.                   | Garantir a estabilidade e confiabilidade do conteúdo.               | NASA Science           |
+| RNF02  | O conteúdo multimídia deve ser otimizado para carregamento rápido.                   | Evitar lentidão em redes com baixa velocidade.                      | NASA Science           |
+| RNF03  | As trilhas temáticas devem ter navegação intuitiva e com fácil retorno ao início.    | Facilitar o uso por usuários iniciantes.                            | NASA Science/ Zênite           |
+| RNF04  | O sistema deve ser compatível com leitores de tela e navegação por teclado.          | Promover acessibilidade para pessoas com deficiência.               | NASA Science           |
+| RNF05  | O layout deve seguir uma estrutura visual clara e coerente entre páginas.            | Melhorar a usabilidade e estética.                                  | EarthSky / Céu Profundo|
+| RNF06  | Os recursos devem ser documentados e testados antes da publicação.                   | Garantir a estabilidade e confiabilidade do conteúdo.               | -           |
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
@@ -289,3 +285,11 @@ O site cobre temas variados da astronomia com uma linguagem acessível e ênfase
 [3] EARTHSKY. Disponível em: <https://earthsky.org/>. Acesso em: 6 abr. 2025.
 
 [4] NASA. NASA Science. Disponível em: <https://science.nasa.gov/>. Acesso em: 6 abr. 2025.
+
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
+| 1.1 | Adicionar as imagens | Larissa Stéfane | 07/04/2024 |
+| 1.2 | Adicionar tabela com os requisitos | Larissa Stéfane | 07/04/2024 |
+| 1.3 | Arrumar a tabela de requisitos| Larissa Stéfane | 08/04/2024 |
