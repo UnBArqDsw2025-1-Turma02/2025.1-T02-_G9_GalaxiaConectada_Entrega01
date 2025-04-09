@@ -52,7 +52,10 @@ Abaixo se encontra o rich picture:
 
 **Observação:** Para analisar o rich picture de forma ampliada e em seus detalhes, clique na imagem e um pdf será aberto em uma nova aba, a qual lhe permitirá explorá-lo com um zoom.
 
-<a href="docs/Base/Imagens/RichPicturePDF.pdf" target="_blank">
+<a href="<a href="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/RichPicturePDF.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/RichPicture.jpg" alt="Abrir PDF" width="1000">
+</a>
+" target="_blank">
   <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/685b3d27148b4d23cec37ce6400e3ff59fb735fa/docs/Base/Imagens/RichPicture.jpg" alt="Abrir PDF" width="1000">
 </a>
 
