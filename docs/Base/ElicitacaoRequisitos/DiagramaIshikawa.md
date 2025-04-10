@@ -9,8 +9,8 @@
 	- [Diagrama 4Ss Projeto](#Diagrama-4Ss-Projeto)
 - [Foco nos Usuários](#Foco-nos-usuários)
 	- [Diagrama 6M Usuário](#Diagrama-6M-Usuário)
-	- [Diagrama 4Ss Usuário(1)](#Diagrama-4Ss-Usuário(1))
-	- [Diagrama 4Ss Usuário(2)](#Diagrama-4Ss-Usuário(2))
+	- [Diagrama 4Ss Usuário(1)](#Diagrama-4Ss-Usuário-1)
+	- [Diagrama 4Ss Usuário(2)](#Diagrama-4Ss-Usuário-2)
 - [Conclusão](#Conclusão)
 - [Bibliografia](#Bibliografia)
 - [Histórico de versão](#Histórico-de-versão)
@@ -392,7 +392,7 @@ Diagrama com base na problemática: Baixo engajamento dos usuários na plataform
 
 </details>
 
-### Diagrama 4Ss Usuário(1)
+### Diagrama 4Ss Usuário 1 
 
 
 Diagrama com base na problemática: Baixa acessibilidade para pessoas com deficiência 
@@ -483,7 +483,7 @@ Diagrama com base na problemática: Baixa acessibilidade para pessoas com defici
 </details>
 
 
-### Diagrama 4Ss Usuário(2)
+### Diagrama 4Ss Usuário 2
 
 
 Diagrama com base na problemática: Dificuldade de uso da plataforma por pessoas neurodivergentes
