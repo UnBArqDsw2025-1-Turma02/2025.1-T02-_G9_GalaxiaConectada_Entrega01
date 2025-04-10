@@ -411,12 +411,12 @@ Diagrama com base na problemática: **Baixo engajamento dos usuários na platafo
 ### Diagrama 4Ss Usuário 1 
 
 
-Diagrama com base na problemática: Baixa acessibilidade para pessoas com deficiência 
+Diagrama com base na problemática: **Baixa acessibilidade para pessoas com deficiência**
 
 <div align="center">
     Figura 5:  Diagrama do Problema: Dificuldade na validação científica do conteúdo compartilhado. 
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)2.jpg">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -426,15 +426,20 @@ Diagrama com base na problemática: Baixa acessibilidade para pessoas com defici
 **Observação 3:** Caso deseje baixar em PDF, clique na mensagem abaixo e o pdf será mostrado. Para baixá-lo, basta clicar nele.
 
 <details>
-  <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
+  <summary><b>📄 Ver em PDF e baixá-lo</b></summary>
 
-<a href="pdf" target="_blank">
-  <img src="Imagem" alt="Abrir PDF" width="1000">
+<p>
+
+<a href="https://github.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/blob/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)2.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)2.jpg" alt="Abrir PDF" width="1000">
 </a>
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+</p>
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
+
 
 ### Possíveis Soluções do Diagrama do Problema: Baixa acessibilidade para pessoas com deficiência 
 
@@ -507,7 +512,7 @@ Diagrama com base na problemática: Dificuldade de uso da plataforma por pessoas
 <div align="center">
     Figura 6:  Diagrama do Problema: Dificuldade de uso da plataforma por pessoas neurodivergentes
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)3.jpg">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -517,15 +522,20 @@ Diagrama com base na problemática: Dificuldade de uso da plataforma por pessoas
 **Observação 3:** Caso deseje baixar em PDF, clique na mensagem abaixo e o pdf será mostrado. Para baixá-lo, basta clicar nele.
 
 <details>
-  <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
+  <summary><b>📄 Ver em PDF e baixá-lo</b></summary>
 
-<a href="pdf" target="_blank">
-  <img src="Imagem" alt="Abrir PDF" width="1000">
+<p>
+
+<a href="https://github.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/blob/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)3.drawio.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)3.jpg" alt="Abrir PDF" width="1000">
 </a>
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+</p>
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
+
 
 ### Possíveis Soluções do Diagrama do Problema: Dificuldade de uso da plataforma por pessoas neurodivergentes
 
