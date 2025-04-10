@@ -40,7 +40,7 @@ A figura abaixo mostra a tabela com as 6 categorias:
 <div align="center">
     Figura 1: Ishikawa 6M
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/Ishikawa/Ishikawa_4Ss.png">
     <br>
      <b> Autora: </b> <a href="https://www.youtube.com/watch?v=U-0qzmFqH-0">Aprendendo Gestão
     <br>
@@ -55,7 +55,7 @@ A figura abaixo mostra a tabela com as 6 categorias:
 <div align="center">
     Figura 2: Ishikawa 4Ss
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/Ishikawa/Ishikawa_6M.png">
     <br>
      <b> Autora: </b> <a href="https://www.youtube.com/watch?v=U-0qzmFqH-0">Aprendendo Gestão
     <br>
