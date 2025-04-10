@@ -184,7 +184,7 @@ Diagrama com base na problemática: Atrasos no desenvolvimento da plataforma com
 
 </details>
 
-###  Diagrama 4Ss:Projeto
+###  Diagrama 4Ss Projeto
 
 Diagrama com base na problemática: Dificuldade na validação científica do conteúdo compartilhado.
 
@@ -275,7 +275,7 @@ Diagrama com base na problemática: Dificuldade na validação científica do co
 
 Abaixo estão apresentados os diagramas de causa e efeito com foco no **em como os usuários vão interagir com a plataforma**. Essa etapa tem como objetivo identificar antecipadamente possíveis obstáculos que possam comprometer a qualidade e o interesse pela plataforma. 
 
-###  Diagrama 6M:Usuário
+###  Diagrama 6M Usuário
 
 Diagrama com base na problemática: Baixo engajamento dos usuários na plataforma
 
@@ -392,7 +392,7 @@ Diagrama com base na problemática: Baixo engajamento dos usuários na plataform
 
 </details>
 
-### Diagrama 4Ss:Usuário(1)
+### Diagrama 4Ss Usuário(1)
 
 
 Diagrama com base na problemática: Baixa acessibilidade para pessoas com deficiência 
@@ -483,7 +483,7 @@ Diagrama com base na problemática: Baixa acessibilidade para pessoas com defici
 </details>
 
 
-### Diagrama 4Ss:Usuário(2)
+### Diagrama 4Ss Usuário(2)
 
 
 Diagrama com base na problemática: Dificuldade de uso da plataforma por pessoas neurodivergentes
