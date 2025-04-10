@@ -191,12 +191,12 @@ Diagrama com base na problemática: **Atrasos no desenvolvimento da plataforma c
 
 ###  Diagrama 4Ss Projeto
 
-Diagrama com base na problemática: Dificuldade na validação científica do conteúdo compartilhado.
+Diagrama com base na problemática: **Dificuldade na validação científica do conteúdo compartilhado.**
 
 <div align="center">
     Figura 4:  Diagrama do Problema: Dificuldade na validação científica do conteúdo compartilhado. 
     <br>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)1.png">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -206,15 +206,20 @@ Diagrama com base na problemática: Dificuldade na validação científica do co
 **Observação2:** Caso deseje baixar em PDF, clique na mensagem abaixo e o pdf será mostrado. Para baixá-lo, basta clicar nele.
 
 <details>
-  <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
+  <summary><b>📄 Ver em PDF e baixá-lo</b></summary>
 
-<a href="pdf" target="_blank">
-  <img src="Imagem" alt="Abrir PDF" width="1000">
+<p>
+
+<a href="https://github.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/blob/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)1.pdf" target="_blank">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/main/docs/Base/Imagens/Ishikawa/DiagramaIshikawa(4Ss)1.png" alt="Abrir PDF" width="1000">
 </a>
 
-<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+</p>
+
+**Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
 </details>
+
 
 ### Possíveis Soluções do Diagrama do Problema: Dificuldade na validação científica do conteúdo compartilhado.
 
