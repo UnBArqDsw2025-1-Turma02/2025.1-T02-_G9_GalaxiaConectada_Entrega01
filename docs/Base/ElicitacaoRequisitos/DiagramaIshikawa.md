@@ -65,7 +65,7 @@ A figura abaixo mostra a tabela com as 6 categorias:
 
 Abaixo estão apresentados os diagramas de causa e efeito com foco no **desenvolvimento do projeto Galáxia Conectada**. Essa etapa tem como objetivo identificar antecipadamente possíveis entraves que possam comprometer a qualidade, o desempenho ou a confiabilidade da plataforma durante sua construção.
 
-###  Diagrama 6M:Projeto
+###  Diagrama 6M Projeto
 
 Diagrama com base na problemática: Atrasos no desenvolvimento da plataforma com qualidade
 
