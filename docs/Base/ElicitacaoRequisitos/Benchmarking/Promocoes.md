@@ -81,6 +81,8 @@ Plataforma colaborativa de promoções em tempo real, onde os próprios usuário
 
 ### Requisitos Funcionais 
 
+**Tabela 1:** Requisitos Funcionais 
+
 | Código | Requisito Funcional                                                                      | Objetivo                                                                                   | Origem             |
 |--------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------|
 | RF01   | O sistema deve exibir uma lista de promoções organizadas por categoria.                  | Facilitar a busca de ofertas relevantes.                                                   | Promobit / Cuponomia |
@@ -93,6 +95,8 @@ Plataforma colaborativa de promoções em tempo real, onde os próprios usuário
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
 ### Requisitos Não Funcionais 
+
+**Tabela 2:** Requisitos Não Funcionais 
 
 | Código | Requisito Não Funcional                                                                   | Objetivo                                                                                     | Origem             |
 |--------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------|
