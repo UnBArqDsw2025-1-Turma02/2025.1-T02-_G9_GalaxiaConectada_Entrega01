@@ -15,6 +15,7 @@
       - [1.2.2 Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md) 
       - [1.2.3 5W+2H](Base/ElicitacaoRequisitos/5W2H.md)
       - [1.2.4 Diagrama de Ishikawa](Base/ElicitacaoRequisitos/DiagramaIshikawa.md)
+      - [1.2.5 Glossário](Base/ElicitacaoRequisitos/glossario.md)
 
     - [1.3. Modelagem BPMN](/docs/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
