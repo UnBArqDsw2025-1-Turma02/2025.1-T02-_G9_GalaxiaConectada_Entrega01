@@ -51,7 +51,7 @@ Abaixo, nas figuras 1 e 2 se encontram o Storyboard :
 <div align="center">
     Figura 1: Storyboard parte 1
     <br>
-    <img src=""  width="900">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/Screenshot%20from%202025-04-11%2017-19-49.png"  width="900">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -61,7 +61,7 @@ Abaixo, nas figuras 1 e 2 se encontram o Storyboard :
 <div align="center">
     Figura 2: Storyboard parte 2
     <br>
-    <img src=""  width="900">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/refs/heads/main/docs/Base/Imagens/Screenshot%20from%202025-04-11%2017-20-11.png"  width="900">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
