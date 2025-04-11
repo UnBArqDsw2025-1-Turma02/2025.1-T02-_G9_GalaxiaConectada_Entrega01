@@ -197,12 +197,11 @@ Os resultados foram organizados em seções conforme os blocos temáticos do que
 
 ## Conclusão
 
-Com base nos resultados do questionário, foi possível identificar o perfil predominante dos usuários da **Galáxia Conectada** e entender seus interesses mais recorrentes. A plataforma será desenvolvida considerando esses dados, priorizando conteúdos acessíveis, recursos visuais e funcionalidades interativas. Essa abordagem visa garantir uma experiência educativa rica, envolvente e adequada aos diferentes níveis de conhecimento do público-alvo.
+Com base nos resultados do questionário, foi possível identificar o perfil predominante dos usuários da **Galáxia Conectada** e entender seus interesses mais recorrentes. A plataforma será desenvolvida considerando esses dados e priorizará conteúdos acessíveis, recursos visuais e funcionalidades interativas. 
 
 
 ## Histórico de versão
 
-| Versão | Data       | Autor           | Descrição                    |
-|--------|------------|------------------|------------------------------|
-| 1.0    | 09/04/2025 | Larissa Stéfane | Versão inicial do documento |
-
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 11/04/2024 |
