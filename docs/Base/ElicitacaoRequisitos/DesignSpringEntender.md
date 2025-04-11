@@ -1,4 +1,4 @@
-# Design Spring – Entneder (Unpack)
+# Design Spring – Entender (Unpack)
 
 ## Sumário
 
@@ -46,7 +46,7 @@ Para aprofundar o entendimento sobre o projeto, foram aplicadas as seguintes té
 
 - **Objetivo**: Oorganizar as ideias iniciais junto com as funcionalidades desejadas e os temas de interesse.
 
-O artefato completo se encontra em [Brainstorming](/ElicitacaoRequisitos/BrainStorm.md)
+O artefato completo se encontra em [Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md)
 
 <details>
   <summary size="20"><b> Apresentação do brainstorming </b></summary> 
@@ -70,7 +70,7 @@ Abaixo, está o mapa mental criado:
 
 - **Objetivo**: Representar visualmente os envolvidos, as interações, os contextos e os desafios do projeto de forma mais livre e interpretativa.
 
-O artefato completo se encontra em [Rich Picture](/RichPicture.md)
+O artefato completo se encontra em [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md)
 
 <details>
   <summary size="20"><b> Apresentação do Rich Picture </b></summary> 
@@ -90,16 +90,16 @@ O artefato completo se encontra em [Rich Picture](/RichPicture.md)
 
   - **Objetivos**: Análise de sites e portais semelhantes, como NASA Science, EarthSky, Astronomia no Zênite e Céu Profundo e avaliar os seus conteúdos, recursos interativos e funcionalidades oferecidas. Os pontos positivos poderão ser utilizados no desenvolvimento da **Galáxia Conectada**, enquanto os negativos serão evitados.
 
-Para acessar o documento do geral, clique aqui: [Benchmarking](/Benchmarking/Benchmarking.md) 
+Para acessar o documento do geral, clique aqui: [Benchmarking](Base/ElicitacaoRequisitos/Benchmarking/Benchmarking.md) 
 
 Para verificar o benchmarking dos sites com base nas categorias analisadas:
 
-- [Divulgação Científica](/Benchmarking/DivulgacaoCientifica.md)
-- [Fóruns](/Benchmarking/Foruns.md)
-- [Plataformas Educacionais](/Benchmarking/PlataformasEducacionais.md)
-- [Animações](/Benchmarking/Animacoes.md)
-- [Jogos](/Benchmarking/Jogos.md)
-- [Promoções](/Benchmarking/Promocoes.md)
+- [Divulgação Científica](Base/ElicitacaoRequisitos/Benchmarking/DivulgacaoCientifica.md)
+- [Fóruns](Base/ElicitacaoRequisitos/Benchmarking/Foruns.md)
+- [Plataformas Educacionais](Base/ElicitacaoRequisitos/Benchmarking/PlataformasEducacionais.md)
+- [Animações](Base/ElicitacaoRequisitos/Benchmarking/Animacoes.md)
+- [Jogos](Base/ElicitacaoRequisitos/Benchmarking/Jogos.md)
+- [Promoções](Base/ElicitacaoRequisitos/Benchmarking/Promocoes.md)
 
 ## 📋 5W + 2H
 
