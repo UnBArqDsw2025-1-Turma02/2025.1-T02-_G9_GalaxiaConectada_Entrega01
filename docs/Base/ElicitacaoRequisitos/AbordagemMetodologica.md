@@ -3,9 +3,8 @@
 - [Introdução](#Introdução)
 - [Objetivos](#Objetivos)
 - [Abordagem Metodológica](#Abordagem-Metodológica)
-- [Planos de Risco](#Planos-de-Risco)
-- [Planos de Custo](#Planos-de-Custo)
-- [Planos de Tempo](#Planos-de-Tempo)
+- [Modelagem BPMN](#Modelagem-BPMN)
+- [Metodologia e BPMN](#Metodologia-e-BPMN)
 - [Conclusão](#Conclusão)
 - [Bibliografia](#Bibliografia)
 - [Histórico de versão](#Histórico-de-versão)
@@ -13,13 +12,13 @@
 
 ## Introdução
 
-
+No desenvolvimento de projetos de software, as abordagens metodológicas representam os conjuntos de práticas, princípios e processos utilizados para planejar, organizar, desenvolver e entregar soluções digitais de forma eficiente e estruturada. Com base nisso, para o desenvolvimento do projeto, foram escolhidas a junção de duas abordagens metodológicas.
 
 ##  Abordagem Metodológica
 
 Para o desenvolvimento do projeto Galáxia Conectada, foi adotada uma abordagem metodológica híbrida, combinando elementos do **Scrum Solo** com práticas do **Kanban adaptado**, visando atender à realidade de um projeto individual realizado por uma estudante de Engenharia de Software no período de março a julho de 2025.
 
-- ** Scrum:** é uma metodologia ágil amplamente utilizada no desenvolvimento de projetos, especialmente na área de software. Sua estrutura é baseada em ciclos iterativos e incrementais, chamados de Sprints, que permitem entregas frequentes e melhorias contínuas ao longo do projeto. Cada Sprint possui um tempo pré-determinado (Time Box) no qual um conjunto de tarefas deve ser executado. [1](#ref1)
+- **Scrum:** é uma metodologia ágil amplamente utilizada no desenvolvimento de projetos, especialmente na área de software. Sua estrutura é baseada em ciclos iterativos e incrementais, chamados de Sprints, que permitem entregas frequentes e melhorias contínuas ao longo do projeto. Cada Sprint possui um tempo pré-determinado (Time Box) no qual um conjunto de tarefas deve ser executado. [1](#ref1)
 
 - **Scrum Solo:** O Scrum Solo foi escolhido como base por ser uma adaptação ágil voltada a projetos desenvolvidos por uma única pessoa, mantendo os pilares fundamentais do Scrum. Com isso, o planejamento é realizado de forma iterativa, com ciclos de entrega denominados "sprints pessoais", nos quais a desenvolvedora irá assumir todos os papéis (Product Owner, Scrum Master e Time de Desenvolvimento). 
 
@@ -29,10 +28,24 @@ Para o desenvolvimento do projeto Galáxia Conectada, foi adotada uma abordagem 
 
 ## Modelagem BPMN
 
+### Legenda da BPMN
+
+A baixo, na figura 1, está a legenda dos elementos utilizados na elaboração do diagrama na modelagem BPMN.
+
+<div align="center">
+    Figura 1: Modelagem BPMN 
+    <br>
+    <img src="imagem">
+    <br>
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+    <br>
+</div>
+
+
 Para exemplificar a utilização das metodologias no desenvolvimento do projeto, foi elaborado um diagrama seguindo a modelagem BPMN em relação a piscina (processo) de desenvolvimento da primeira trilha de ensino.
 
 <div align="center">
-    Tabela 1: Modelagem BPMN usando o Scrum Solo e o Kaban
+    Figura 2 Modelagem BPMN usando o Scrum Solo e o Kaban
     <br>
     <img src="imagem">
     <br>
@@ -54,7 +67,15 @@ Para exemplificar a utilização das metodologias no desenvolvimento do projeto,
 
 </details>
 
+## Metodologia e BPMN
 
+Na modelagem BPMN da criação da primeira trilha de ensino do projeto Galáxia Conectada, as metodologias Scrum Solo e Kanban foram integradas para organizar e representar visualmente o fluxo de trabalho individual de forma eficiente.
+
+Com isso, o **Scrum Solo** foi aplicado na estruturação de sprints pessoais, com definição de objetivos, critérios de aceitação e entregas incrementais. Já o **Kanban** foi utilizado para mapear as tarefas em cartões (as fases na modelagem). 
+
+## Conclusão
+
+Ao estruturar o processo em fases bem definidas, com papéis divididos em raias e atividades conectadas por eventos e gateways, foi possível visualizar com precisão cada etapa — desde o planejamento pedagógico até a validação técnica e publicação.
 
 ## Bibliografia
 
