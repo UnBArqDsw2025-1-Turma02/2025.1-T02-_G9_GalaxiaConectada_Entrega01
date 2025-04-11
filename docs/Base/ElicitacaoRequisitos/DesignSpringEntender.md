@@ -102,11 +102,17 @@ Para verificar o benchmarking dos sites com base nas categorias analisadas:
 - [Promoções](Base/ElicitacaoRequisitos/Benchmarking/Promocoes.md)
 
 
-## Questionário 
+## 👤 Questionário 
 
 - **Objetivo**: Obter dados e informações sobre os ponteciais usuários, como a faixa etária mais frequênte, grau de de ensino e outras informações.
 
 - Para acessar os dados e resultados do questionário, clique em [Questionário](Base/ElicitacaoRequisitos/Questionário.md) 
+
+## ⚙️ Pesquisa sobre o perfil do usuário
+
+- **Objetivo:** Ajudar a compreender quem é o público alvo da plataforma.
+
+- Para acessar a pesquisa, cique aqui [Pesquisa sobre o perfil dos usuários](Base/ElicitacaoRequisitos/AnalisePerfil.md)
 
 ## 📋 5W + 2H
 
