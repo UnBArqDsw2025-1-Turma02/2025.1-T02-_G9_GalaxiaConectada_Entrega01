@@ -25,6 +25,8 @@ O questionário foi criado no sábado, **05 de abril de 2025**, e ficou disponí
 
 A diversidade dos grupos buscou garantir uma amostra mais representativa para o público-alvo da plataforma.
 
+**Observação:** Caso dejese responder o questionário també, aqui está o link [Questionário](https://forms.office.com/Pages/ResponsePage.aspx?id=oZs17AtjK024M8jm1I-AWSYvPkA6V8RLrQ-YvB_5fxdUMFFaUDVPRURDMzJBV1A3N1BEQlg0VllGQi4u) 
+
 ### Tabela 1: Cronograma do processo de coleta de dados
 
 | Acontecimento             | Data          | Horário (aproximado) |
