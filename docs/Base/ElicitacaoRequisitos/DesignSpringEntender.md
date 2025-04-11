@@ -101,6 +101,13 @@ Para verificar o benchmarking dos sites com base nas categorias analisadas:
 - [Jogos](Base/ElicitacaoRequisitos/Benchmarking/Jogos.md)
 - [Promoções](Base/ElicitacaoRequisitos/Benchmarking/Promocoes.md)
 
+
+## Questionário 
+
+- **Objetivo**: Obter dados e informações sobre os ponteciais usuários, como a faixa etária mais frequênte, grau de de ensino e outras informações.
+
+- Para acessar os dados e resultados do questionário, clique em [Questionário](Base/ElicitacaoRequisitos/Questionário.md) 
+
 ## 📋 5W + 2H
 
  - **Objetivo**: Levantar as informações essenciais sobre o projeto por meio de sete perguntas-chave — What, Why, Where, When, Who, How e How much.
