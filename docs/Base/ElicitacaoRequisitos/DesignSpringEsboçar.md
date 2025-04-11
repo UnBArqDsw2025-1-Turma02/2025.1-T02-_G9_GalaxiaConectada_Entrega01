@@ -64,7 +64,7 @@ Abaixo se encontra o rich picture:
     <br>
 </div>
 
-**Observação:** Caso deseje ler o artefato completo, clique em [Rich Picture](RichPicture.md)
+**Observação:** Caso deseje ler o artefato completo, clique em [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md)
 
 ## Ideias para a Etapa de Decidir
 
