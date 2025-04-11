@@ -13,7 +13,7 @@
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios Claros (com link) |
 |----------------|--------------|--------------------------------------------------|-----------------------------------|
-| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | Elaboração individual de todos os artefatos generalistas: Brainstorming, Rich Picture, 5W2H, Diagrama de Ishikawa, Glossário e Estimativas | Excelente | [Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md), [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md), [5W2H](Base/ElicitacaoRequisitos/5W2H.md), [Ishikawa](Base/ElicitacaoRequisitos/DiagramaIshikawa.md), [Glossário](Base/ElicitacaoRequisitos/glossario.md), [Estimativas](Base/ElicitacaoRequisitos/Estimativas.md) |
+| [Larissa Stéfane](https://github.com/SkywalkerSupreme) | Elaboração individual de todos os artefatos generalistas: Brainstorming, Rich Picture, 5W2H, Diagrama de Ishikawa, Glossário e Estimativas | Excelente | [Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md), [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md), [5W2H](Base/ElicitacaoRequisitos/5W2H.md), [Ishikawa](Base/ElicitacaoRequisitos/DiagramaIshikawa.md), [Glossário](Base/ElicitacaoRequisitos/glossario.md), [Estimativas](Base/ElicitacaoRequisitos/Estimativas.md), [Questionário](Base/ElicitacaoRequisitos/Questionário.md) |
 
 
 
