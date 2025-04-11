@@ -75,3 +75,6 @@ A figura 2 mostra o diagrama do modelo criado.
 A modelagem do processo de consumo de aula na plataforma Galáxia Conectada por meio da notação BPMN permitiu visualizar de forma clara e organizada todas as etapas envolvidas na experiência do usuário, desde o primeiro contato com o curso até a atualização do seu progresso após a aula. 
 
 ## Bibliografia
+
+<a name="ref1"></a>  
+[1] TOTVS. BPMN: entenda o que é a modelagem de processos de negócios, como fazer e sua importância! Escrito por Equipe TOTVS. Última atualização em 01 mar. 2023. Disponível em: <https://www.totvs.com/blog/gestao-industrial/bpmn/>. Acesso em: 9 abr. 2025.
