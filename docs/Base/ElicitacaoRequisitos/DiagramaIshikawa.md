@@ -620,3 +620,11 @@ Mais do que apontar os problemas, o uso desses diagramas viabilizou a proposiç�
 
 <a name="ref5"></a>  
 [5] SOARES, Vitor. *Diagrama de Ishikawa: o que é, para que serve e como usar*. Na Prática, 25 jun. 2024. Disponível em: <https://napratica.org.br/diagrama-de-ishikawa/#:~:text=O%20Diagrama%20foi%20pensado%20pelo,problemas%20de%20produtividades%20em%20organiza%C3%A7%C3%B5es>. Acesso em: 8 abr. 2025.
+
+
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 08/04/2024 |
+| 1.1 | Adicionar tabelas de cada categoria | Larissa Stéfane | 08/04/2024 |
