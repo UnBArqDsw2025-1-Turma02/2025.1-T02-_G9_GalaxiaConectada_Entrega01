@@ -8,6 +8,7 @@
  * 1.1. Design Sprint
     - [1.1.1 Entender(Unpack)](Base/ElicitacaoRequisitos/DesignSpringEntender.md)
     - [1.1.2 Esboçar(Sketch)](Base/ElicitacaoRequisitos/DesignSpringEsboçar.md)
+    - [1.1.4 Prototipação(Prototype)](Base/ElicitacaoRequisitos/DesignSprintPrototipo.md)
 
   * 1.2. Artefato Generalista
     - [1.2.1 Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md)
