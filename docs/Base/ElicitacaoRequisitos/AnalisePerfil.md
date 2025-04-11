@@ -50,8 +50,6 @@ Conclui-se que mais pesquisas específicas são necessárias para traçar um per
 
 ## Bibliografia
 
-## Bibliografia
-
 1. American Astronomical Society. (2023). *CSWA Demographics Report*. Disponível em: [https://baas.aas.org/pub/2023i018](https://baas.aas.org/pub/2023i018)
 
 2. Comitê sobre o Status das Mulheres na Astronomia (CSWA). *Boletins e Relatórios sobre Diversidade na AAS*. Disponível em: [https://baas.aas.org](https://baas.aas.org)
