@@ -80,7 +80,7 @@ Tabela 2: Planos de Custos
 |---------------------|--------------------------------------------------|---------------------------------------------------------------------------|----------------------|
 | **Mão de Obra**     | Esforço da desenvolvedora                        | Horas estimadas de trabalho para desenvolver o projeto                    | 0,00 (trabalho acadêmico) |
 | **Infraestrutura**  | Equipamento pessoal                              | Uso de computador pessoal, internet, energia elétrica                     | (Não é possível calcular)               |
-|                     | Licenças e ferramentas                           | Ferramentas gratuitas ou com planos educacionais (ex: Figma, Trello)      | 0,00                 |
+| **Infraestrutura**  | Licenças e ferramentas                           | Ferramentas gratuitas ou com planos educacionais (ex: Figma, Trello)      | 0,00                 |
 | **Treinamento**     | Capacitação técnica                              | Cursos online e tutoriais utilizados no aprendizado de tecnologias         | 0,00 (acesso pela internete)              |
 | **Comunicação**     | Plataforma de videoconferência / reuniões online | Uso de Zoom, Google Meet, etc.                                            | 0,00 (versão gratuita) |
 | **Documentação**    | Impressões e materiais de apoio                  | Impressão esquemas e relatórios                           | 0,0 (feito em casa)              |
@@ -120,3 +120,10 @@ Com base nas estimativas realizadas e no planejamento estruturado de custo, temp
 <a name="ref1"></a>  
 [1] SILVA FILHO, Antonio Mendes da. Estimativa de custo de software: roteiro e dicas para estimativas de projeto. Acesso em: 10 abr. 2025.
 
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 10/04/2024 |
+| 1.1 | Adicionar tabelas de plano de riscos  | Larissa Stéfane | 10/04/2024 |
+| 1.2 | Adicionar tabelas de planos de custo e tempo  | Larissa Stéfane | 11/04/2024 |
