@@ -83,4 +83,13 @@ A modelagem do processo de consumo de aula na plataforma Galáxia Conectada por 
 ## Bibliografia
 
 <a name="ref1"></a>  
-[1] TOTVS. BPMN: entenda o que é a modelagem de processos de negócios, como fazer e sua importância! Escrito por Equipe TOTVS. Última atualização em 01 mar. 2023. Disponível em: <https://www.totvs.com/blog/gestao-industrial/bpmn/>. Acesso em: 9 abr. 2025.
+[1] TOTVS. BPMN: entenda o que é a modelagem de processos de negócios, como fazer e sua importância! Escrito por Equipe TOTVS. Última atualização em 01 mar. 2023. Disponível em: <https://www.totvs.com/blog/gestao-industrial/bpmn/>. Acesso em: 10 abr. 2025.
+
+
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 10/04/2024 |
+| 1.1 | Adicionar o diagrama do modelo BPMN | Larissa Stéfane | 10/04/2024 |
+| 1.2 | Adicionar tabela de legenda | Larissa Stéfane | 11/04/2024 |
