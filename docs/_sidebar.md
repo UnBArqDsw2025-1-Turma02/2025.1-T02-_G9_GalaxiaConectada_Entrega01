@@ -25,7 +25,7 @@
     - [1.3.1 Metodologia + BPMN](Base/ElicitacaoRequisitos/AbordagemMetodologica.md)
     - [1.3.2 BPMN no Projeto](Base/ElicitacaoRequisitos/BPMN.md) 
       
-    - [1.4. Participações - Base](Base/ElicitacaoRequisitos/ParticipacoesBase01.md)
+  * [1.4. Participações - Base](Base/ElicitacaoRequisitos/ParticipacoesBase01.md)
 
 
   * 1.5. Iniciativas Extras - Base
