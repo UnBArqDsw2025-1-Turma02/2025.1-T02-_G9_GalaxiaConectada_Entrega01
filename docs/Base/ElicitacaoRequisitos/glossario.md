@@ -75,7 +75,12 @@ Tabela 3: Estrutura das tabelas
 
 ## Léxicos do tipo Sujeito
 
+
+<details>
+  <summary size="20"><b> Léxicos do tipo Sujeito </b></summary> 
+ 
 <center>
+ 
 Tabela 4: Léxicos do tipo Sujeito
 
 | Léxico           | Noção                                                                 | Comportamento                                                            | Atributos                                   | Métodos                                                         | Sinônimos         | Antônimos         |
@@ -98,9 +103,15 @@ Tabela 4: Léxicos do tipo Sujeito
 
 </center>
 
+</details>
+
 ## Léxicos do tipo Objeto
 
+<details>
+  <summary size="20"><b> Léxicos do tipo Objeto </b></summary> 
+ 
 <center>
+ 
 Tabela 5: Léxicos do tipo Objeto
 
 | Léxico               | Noção                                                                 | Comportamento                                                     | Atributos                                         | Métodos                                                     | Sinônimos              | Antônimos             |
@@ -134,9 +145,16 @@ Tabela 5: Léxicos do tipo Objeto
 
 </center>
 
+</details>
+
+
 ## Léxicos do tipo Verbo
 
+<details>
+  <summary size="20"><b> Léxicos do tipo Verbo </b></summary> 
+ 
 <center>
+ 
 Tabela 6: Léxicos do tipo Verbo
 
 | Léxico         | Noção                                                                 | Comportamento                                                                 | Atributos                       | Métodos                                                   | Sinônimos         | Antônimos         |
@@ -164,9 +182,13 @@ Tabela 6: Léxicos do tipo Verbo
 
 </center>
 
+</details>
 
 ## Léxicos do tipo Estado
 
+<details>
+  <summary size="20"><b> Léxicos do tipo Estado </b></summary> 
+ 
 <center>
 Tabela 7:  Léxicos do tipo Estado
 
@@ -185,15 +207,25 @@ Tabela 7:  Léxicos do tipo Estado
 
 </center>
 
+</details>
 
 ## Conclusão
 
 A elaboração do glossário léxico para o projeto possibilitou um alinhamento da compreensão dos termos e das suas funções. 
 
-## Bibligrafia
+## Bibliografia
 
 <a name="ref1"></a>  
-[1] MOHAND, Ounsa R. et al. **Elaborate Lexicon Extended Language with a Lot of Conceptual Information**. International Journal of Computer Science, Engineering and Applications (IJCSEA), v. 5, n. 6, p. 1–18, dez. 2015.
+[1] MOHAND, Ounsa R. et al. **Elaborate Lexicon Extended Language with a Lot of Conceptual Information**. International Journal of Computer Science, Engineering and Applications (IJCSEA), v. 5, n. 6, p. 1–18, dez. 2015. Acessado em: 9 abr. 2025.
 
 <a name="ref2"></a>  
-[2] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: Software Orientado ao Negócio**. Rio de Janeiro: Brasport, 2016.
+[2] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos: Software Orientado ao Negócio**. Rio de Janeiro: Brasport, 2016. Acessado em: 9 abr. 2025.
+ 
+## Histórico de versão
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 09/04/2024 |
+| 1.1 | Adicionar tabelas do tipo Sujetio e Objeto| Larissa Stéfane | 09/04/2024 |
+| 1.2 | Adicionar tabelas de verbo e estado | Larissa Stéfane | 10/04/2024 |
+| 1.3 | Colapsar tabelas | Larissa Stéfane | 11/04/2024 |
