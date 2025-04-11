@@ -6,8 +6,6 @@
 - [Objetivos](#Objetivos)
 - [Metodologia](#Metodologia)
 - [Storyboard](#Storyboard)
-- [Justificativa das Escolhas](#Justificativa-Das-Escolhas)
-- [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 - [Conclusão](#conclusão)
 - [Bibliografia](#bibliografia)
 - [Histórico de Versão](#histórico-de-versão)
