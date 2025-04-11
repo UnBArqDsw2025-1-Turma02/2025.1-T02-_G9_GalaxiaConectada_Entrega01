@@ -1,5 +1,7 @@
 ## Glossário
 
+## Sumário
+
 - [Introdução](#Introdução)
 - [Objetivos](#Objetivos)
 - [Metodologia](#Metodologia)
