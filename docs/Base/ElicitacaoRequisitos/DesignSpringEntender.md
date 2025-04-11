@@ -16,7 +16,7 @@
 
 O **Design Sprint** é uma metodologia ágil desenvolvida pelo **Google Ventures** [1](#ref1)  com o objetivo de resolver grandes desafios e encontrar soluções em um curto espaço de tempo, geralmente em 5 dias. Para isso, ele divide o processo de produção em fases bem definidas: **Entender, Esboçar, Decidir, Prototipar e Testar.**
 
-Como está é a fase inicial do projeto, será executada a etapa chamada **Entender (Unpack)**, a qual o foco é compreender e construir uma base sólida de conhecimento sobre o projeto que será desenvolvido. [2](#ref2)
+Como esta é a fase inicial do projeto, será executada a etapa chamada **Entender (Unpack)**, a qual o foco é compreender e construir uma base sólida de conhecimento sobre o projeto que será desenvolvido. [2](#ref2)
 
 ## Objetivos
 
