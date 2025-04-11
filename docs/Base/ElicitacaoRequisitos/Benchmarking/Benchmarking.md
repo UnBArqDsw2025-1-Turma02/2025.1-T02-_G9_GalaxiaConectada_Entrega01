@@ -174,6 +174,9 @@ Para ver o benchmarking deste tópico clique em: [Benchmarking: Divulgação Cie
 <a name="ref1"></a>  
 [1] IATA, Cristiane. Benchmarking: muito além de uma simples comparação. Revista Benchmarking, edição 1, dez. 2008. Disponível em: https://pontogp.wordpress.com/2008/12/24/benchmarking-muito-alem-de-uma-simples-comparacao. Acesso em 6 de abril de 2025.
 
+
+## Histórico de versão
+
 | Versão | Alteração | Responsável | Data |
 | - | - | - | - |
 | 1.0 | Elaboração do documento| Larissa Stéfane | 06/04/2024 |
