@@ -5,14 +5,16 @@
 
 - **Base**
   - [1. Desenho de Software (Base)](/docs/Base/1.Base.md)
-    - 1.1. Design Sprint
+    * 1.1. Design Sprint
       - [1.1.1 Entender(Unpack)](Base/ElicitacaoRequisitos/DesignSpringEntender.md)
 
     - [1.2. Artefato Generalista](/docs/Base/1.2.ArtefatoGeneralista.md)
-    * 1.2.1 Artefato Generalista
-    <!-- [Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md)
-      - [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md) 
+
+    * 1.2. Artefato Generalista
+      - [1.2.1 Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md)
+      - [1.2.2 Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md) 
       - [Benchmarking](Base/ElicitacaoRequisitos/Benchmarking/Benchmarking.md) -->
     - [1.3. Modelagem BPMN](/docs/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras - Base](/docs/Base/1.5.IniciativasExtras.md)
+
+    * 1.5. Iniciativas Extras - Base](/docs/Base/1.5.IniciativasExtras.md)
