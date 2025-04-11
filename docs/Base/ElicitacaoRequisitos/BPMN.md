@@ -36,9 +36,9 @@ O processo foi dividido em quatro fases (milestones):
 A baixo, na figura 1, está a legenda dos elementos utilizados na elaboração do diagrama na modelagem BPMN.
 
 <div align="center">
-    Figura 1: Modelagem BPMN 
+    Figura 1: Legenda dos elementos da Modelagem BPMN 
     <br>
-    <img src="imagem">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/2439217509ecea7c61ba87ef1b364ec26076be4e/docs/Base/Imagens/Ishikawa/LegendaPBMN.jpg">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -50,7 +50,7 @@ A figura 2 mostra o diagrama do modelo criado.
 <div align="center">
     Figura 2: Modelo BPMN 
     <br>
-    <img src="imagem">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/2439217509ecea7c61ba87ef1b364ec26076be4e/docs/Base/Imagens/Ishikawa/BPMN_UsuarioAula.jpg">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -62,9 +62,15 @@ A figura 2 mostra o diagrama do modelo criado.
 <details>
   <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
 
-<a href="pdf" target="_blank">
-  <img src="jpg" alt="Abrir PDF" width="1000">
+<a href="docs/Base/Imagens/Ishikawa/BPMn_UsuaroAula.pdf" target="_blank" title="Abrir versão em PDF do diagrama BPMN - Usuário assistindo aula">
+  <img 
+    src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/2439217509ecea7c61ba87ef1b364ec26076be4e/docs/Base/Imagens/Ishikawa/BPMN_UsuarioAula.jpg" 
+    alt="Diagrama BPMN - Processo do Usuário assistindo aula" 
+    width="1000"
+    style="border:1px solid #ccc; border-radius:8px;"
+  >
 </a>
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
