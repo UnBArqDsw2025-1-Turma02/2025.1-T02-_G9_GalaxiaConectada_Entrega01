@@ -21,7 +21,7 @@ O questionário foi criado no sábado, **05 de abril de 2025**, e ficou disponí
 - Estudantes do **Ensino Fundamental II (8º ano)**;
 - Estudantes do **Ensino Médio (2º ano)**;
 - Alunos da **FGA - UnB (Campus Gama)**;
-- Membros do **Rotary Club**, com predominância de adultos acima dos 40 anos.
+- Membros do **Rotary Club Taguatinga Ave Branca**, com predominância de adultos acima dos 40 anos.
 
 A diversidade dos grupos buscou garantir uma amostra mais representativa para o público-alvo da plataforma.
 
@@ -41,7 +41,7 @@ A diversidade dos grupos buscou garantir uma amostra mais representativa para o 
 
 ## Resultados
 
-Os resultados foram organizados em seções conforme os blocos temáticos do questionário: **perfil pessoal**, **interesses** e **funcionalidades desejadas**. Os dados foram tratados e analisados para embasar as futuras decisões de projeto.
+Os resultados foram organizados em seções conforme os blocos temáticos do questionário: **perfil pessoal**, **interesses** e **funcionalidades desejadas**. Os dados foram tratados e analisados para embasar as futuras decisões de projeto. **Ao todo, 56 pessoas responderam até a coleta dos dados.**
 
 > 💡 *Nota: Algumas perguntas eram de múltipla escolha ou opcionais, então o total de respostas pode variar.*
 
