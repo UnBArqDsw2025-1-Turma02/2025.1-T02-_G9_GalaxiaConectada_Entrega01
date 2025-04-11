@@ -29,7 +29,30 @@ Para o desenvolvimento do projeto Galáxia Conectada, foi adotada uma abordagem 
 
 ## Modelagem BPMN
 
+Para exemplificar a utilização das metodologias no desenvolvimento do projeto, foi elaborado um diagrama seguindo a modelagem BPMN em relação a piscina (processo) de desenvolvimento da primeira trilha de ensino.
 
+<div align="center">
+    Tabela 1: Modelagem BPMN usando o Scrum Solo e o Kaban
+    <br>
+    <img src="imagem">
+    <br>
+     <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+    <br>
+</div>
+
+
+**Observação2:** Caso deseje baixar em PDF, clique na mensagem abaixo e o pdf será mostrado. Para baixá-lo, basta clicar nele.
+
+<details>
+  <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
+
+<a href="pdf" target="_blank">
+  <img src="jpg" alt="Abrir PDF" width="1000">
+</a>
+
+<b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
+
+</details>
 
 
 
