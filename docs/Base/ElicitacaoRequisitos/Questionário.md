@@ -31,7 +31,7 @@ A diversidade dos grupos buscou garantir uma amostra mais representativa para o 
 |--------------------------|---------------|----------------------|
 | Criação do questionário  | 05/04/2025     | 14h30                |
 | Abertura ao público      | 05/04/2025     | 18h00                |
-| Fechamento das respostas | 11/04/2025     | 23h59                |
+| Fechamento das respostas | 11/04/2025     | 14:00                |
 
 **Autora:** [Larissa Stéfane](https://github.com/SkywalkerSupreme)
 
