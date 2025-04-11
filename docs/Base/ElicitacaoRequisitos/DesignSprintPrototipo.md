@@ -62,11 +62,7 @@ O protótipo contempla as principais telas da plataforma **Galáxia Conectada**,
 - **Promoções Astronômicas** para engajar a comunidade.
 
 
-<font size="3"><p style="text-align: center"><b>Figura 1</b>: Protótipo </p></font>
-
-<center>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/6jc45Cu044RUGGaUGMKWTk/Gal%C3%A1xia-Conectada?node-id=1-2&t=lBHDddkEQZqo5hJK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" allowfullscreen></iframe>
-</center>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/6jc45Cu044RUGGaUGMKWTk/Gal%C3%A1xia-Conectada?node-id=1-2&embed-host=share" allowfullscreen></iframe>
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
