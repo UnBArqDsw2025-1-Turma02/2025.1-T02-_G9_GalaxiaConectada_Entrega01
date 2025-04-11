@@ -33,9 +33,9 @@ Para o desenvolvimento do projeto Galáxia Conectada, foi adotada uma abordagem 
 A baixo, na figura 1, está a legenda dos elementos utilizados na elaboração do diagrama na modelagem BPMN.
 
 <div align="center">
-    Figura 1: Modelagem BPMN 
+    Figura 1: Legenda Modelagem BPMN 
     <br>
-    <img src="imagem">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/2439217509ecea7c61ba87ef1b364ec26076be4e/docs/Base/Imagens/Ishikawa/LegendaPBMN.jpg">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -47,7 +47,7 @@ Para exemplificar a utilização das metodologias no desenvolvimento do projeto,
 <div align="center">
     Figura 2 Modelagem BPMN usando o Scrum Solo e o Kaban
     <br>
-    <img src="imagem">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/2439217509ecea7c61ba87ef1b364ec26076be4e/docs/Base/Imagens/Ishikawa/PBMN_Metodologia.png">
     <br>
      <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
     <br>
@@ -59,9 +59,15 @@ Para exemplificar a utilização das metodologias no desenvolvimento do projeto,
 <details>
   <summary size="20"><b> Ver em PDF e baixá-lo </b></summary> 
 
-<a href="pdf" target="_blank">
-  <img src="jpg" alt="Abrir PDF" width="1000">
+<a href="docs/Base/Imagens/Ishikawa/PBMN_Metodologia.pdf" target="_blank" title="Abrir versão em PDF do diagrama BPMN">
+  <img 
+    src="https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G9_GalaxiaConectada_Entrega01/2439217509ecea7c61ba87ef1b364ec26076be4e/docs/Base/Imagens/Ishikawa/PBMN_Metodologia.png" 
+    alt="Diagrama BPMN - Metodologia" 
+    width="1000"
+    style="border:1px solid #ccc; border-radius:8px;"
+  >
 </a>
+
 
 <b> Autora: </b> <a href="https://github.com/SkywalkerSupreme">Larissa Stéfane</a>.
 
