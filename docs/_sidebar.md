@@ -9,6 +9,7 @@
  * 1.1. Design Sprint
     - [1.1.1 Entender(Unpack)](Base/ElicitacaoRequisitos/DesignSpringEntender.md)
     - [1.1.2 Esboçar(Sketch)](Base/ElicitacaoRequisitos/DesignSpringEsboçar.md)
+    - [1.1.3 Decidir(Decision)](Base/ElicitacaoRequisitos/DesignSpritnDecidir.md)
     - [1.1.4 Prototipação(Prototype)](Base/ElicitacaoRequisitos/DesignSprintPrototipo.md)
     - [1.1.5 Teste(Validação)](Base/ElicitacaoRequisitos/DesignSprintTeste.md)
 
