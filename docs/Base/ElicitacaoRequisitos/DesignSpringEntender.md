@@ -46,7 +46,7 @@ Para aprofundar o entendimento sobre o projeto, foram aplicadas as seguintes té
 
 - **Objetivo**: Oorganizar as ideias iniciais junto com as funcionalidades desejadas e os temas de interesse.
 
-O artefato completo se encontra em [Brainstorming](ElicitacaoRequisitos/BrainStorm.md)
+O artefato completo se encontra em [Brainstorming](/ElicitacaoRequisitos/BrainStorm.md)
 
 <details>
   <summary size="20"><b> Apresentação do brainstorming </b></summary> 
