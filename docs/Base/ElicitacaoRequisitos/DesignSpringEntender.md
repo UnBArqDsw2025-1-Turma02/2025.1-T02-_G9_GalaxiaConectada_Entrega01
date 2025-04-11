@@ -101,6 +101,14 @@ Para verificar o benchmarking dos sites com base nas categorias analisadas:
 - [Jogos](/Benchmarking/Jogos.md)
 - [Promoções](/Benchmarking/Promocoes.md)
 
+## 📋 5W + 2H
+
+ - **Objetivo**: Levantar as informações essenciais sobre o projeto por meio de sete perguntas-chave — What, Why, Where, When, Who, How e How much.
+
+O 5W + 2H auxiliou na estruturação e na clareza do escopo inicial,uma queve ofereceu uma visão ampla dos principais aspectos do projeto. Além disso, ajudou a identificar o propósito do projeto, seus objetivos, público-alvo e possíveis formas de implementação.
+
+ Para acessar o artefato do 5W + 2H, clique aqui: [5W+2H](Base/ElicitacaoRequisitos/5W2H.md)
+
  ## Ideais Para o Projeto Após Essa Fase
 
 Após a aplicação das técnicas da fase Entender, o projeto ganhou novas direções e camadas de significado. Passou-se a idealizar uma plataforma interativa e educativa, voltada para entusiastas da astronomia de diferentes níveis, com trilhas de aprendizagem gamificadas, recursos acessíveis, fórum de dúvidas, calendário astronômico e divulgação de eventos e promoções da área. 
