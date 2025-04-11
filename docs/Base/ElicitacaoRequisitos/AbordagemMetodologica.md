@@ -96,3 +96,10 @@ Ao estruturar o processo em fases bem definidas, com papéis divididos em raias 
 
 <a name="ref4"></a>  
 [4] UMBLER BLOG. Método Kanban: como funciona? 12 abr. 2021. Disponível em: <https://blog.umbler.com/br/metodo-kanban/>. Acesso em: 9 abr. 2025.
+
+
+| Versão | Alteração | Responsável | Data |
+| - | - | - | - |
+| 1.0 | Elaboração do documento| Larissa Stéfane | 10/04/2024 |
+| 1.1 | Adicionar o diagrama do modelo BPMN | Larissa Stéfane | 10/04/2024 |
+| 1.2 | Adicionar tabela de legenda | Larissa Stéfane | 11/04/2024 |
