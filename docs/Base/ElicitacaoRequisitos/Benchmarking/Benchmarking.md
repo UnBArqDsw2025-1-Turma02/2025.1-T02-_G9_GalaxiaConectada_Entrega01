@@ -52,7 +52,9 @@ Para ver o benchmarking deste tópico clique em: [Benchmarking: Divulgação Cie
   <summary size="20"><b>  Sites de Fóruns e Grupos de Discussão </b></summary> 
   
 - [Reddit - r/astronomy](https://www.reddit.com/r/astronomy/)
+  
 - [Quora](https://www.quora.com/)
+  
 - [Stack Overflow (comunidades científicas e técnicas)](https://stackoverflow.com/)
 
 </details>
