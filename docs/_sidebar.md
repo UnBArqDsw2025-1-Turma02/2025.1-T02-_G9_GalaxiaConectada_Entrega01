@@ -28,7 +28,7 @@
     - [1.4. Participações - Base](Base/ElicitacaoRequisitos/ParticipacoesBase01.md)
 
 
-  * 1.5. Iniciativas Extras - Base](/docs/Base/1.5.IniciativasExtras.md)
+  * 1.5. Iniciativas Extras - Base
 
     * [1.5.1 Benchmarking](/Base/ElicitacaoRequisitos/Benchmarking/Benchmarking.md)
     - [1.5.1.1 Benchmarking:Animações](/Base/ElicitacaoRequisitos/Benchmarking/Animacoes.md)
