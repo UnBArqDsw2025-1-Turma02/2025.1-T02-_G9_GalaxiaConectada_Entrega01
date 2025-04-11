@@ -85,7 +85,8 @@ O artefato completo se encontra em [Rich Picture](Base/ElicitacaoRequisitos/Rich
               <br>
           </div>
  </details>
-         
+
+	 
 ### 🔎 Benchmarking
 
   - **Objetivos**: Análise de sites e portais semelhantes, como NASA Science, EarthSky, Astronomia no Zênite e Céu Profundo e avaliar os seus conteúdos, recursos interativos e funcionalidades oferecidas. Os pontos positivos poderão ser utilizados no desenvolvimento da **Galáxia Conectada**, enquanto os negativos serão evitados.
