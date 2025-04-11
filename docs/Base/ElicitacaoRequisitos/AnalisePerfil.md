@@ -9,6 +9,7 @@
 - [Fluência em Outros Idiomas](#fluência-em-outros-idiomas)
 - [Conclusão](#conclusão)
 - [Bibliografia](#bibliografia)
+- [Histórico de versão](#Histórico-de-versão)
 
 ## Introdução
 
@@ -20,33 +21,35 @@ A pesquisa envolveu buscar dados publicamente disponíveis, como pesquisas de op
 
 ## Faixa Etária
 
-Um estudo de caso sobre o perfil dos visitantes de um observatório astronômico [3], forneceu insights sobre o interesse em diferentes faixas etárias no contexto brasileiro. Observou-se maior interesse por astronomia na infância e na adolescência, estimulados por iniciativas educacionais, mantendo-se presente em poucos adultos, motivados por lazer e busca por conhecimento. Esse interesse pode persistir na vida adulta, principalmente por atuantes em carreiras profissionais na própria área ou afins.
+Um estudo de caso sobre o perfil dos visitantes de um observatório astronômico [3], forneceu insights sobre o interesse em diferentes faixas etárias. Observou-se maior interesse por astronomia na **infância e na adolescência**, estimulados por iniciativas educacionais, o que se mantem presente em poucos adultos, motivados por lazer e busca por conhecimento. 
+
+O interessem pelo conteúdo pode persistir na vida adulta, principalmente por atuantes em carreiras profissionais na própria área ou afins.
 
 ## Gênero
 
-Historicamente, as áreas de ciência, tecnologia, engenharia e matemática (STEM), incluindo a astronomia, têm apresentado uma sub-representação, conforme resultados de pesquisas demográficas realizadas pela [American Astronomical Society](https://baas.aas.org/pub/2023i018) [1]. Isso também foi constatado em uma análise da participação em conferências de imprensa em [What Motivates Amateur Astronomers?](https://adsabs.harvard.edu/full/2000ASPC..220...14G) [3], conforme relatado pelo [Comitê sobre o Status das Mulheres na Astronomia (CSWA)](https://baas.aas.org) [3].
+Historicamente, as áreas de ciência, tecnologia, engenharia e matemática (STEM), incluindo a astronomia, têm apresentado uma sub-representação, conforme resultados de pesquisas demográficas realizadas pela [American Astronomical Society](https://baas.aas.org/pub/2023i018) [1]. A qual **a maior parte do interesse ainda persiste sob o público masculino** Isso também foi constatado em uma análise da participação em conferências de imprensa em [What Motivates Amateur Astronomers?](https://adsabs.harvard.edu/full/2000ASPC..220...14G) [3].
 
-No entanto, o interesse pela astronomia é crescente entre mulheres e meninas, impulsionado por iniciativas de divulgação científica e programas de incentivo [2]. Por outro lado, há limitação de dados mais específicos sobre a proporção de gênero entre os entusiastas da astronomia no Brasil. É importante ressaltar que o interesse pela astronomia deve transcender o gênero e esforços contínuos podem promover a igualdade de oportunidades e representação na área.
+No entanto, o interesse pela astronomia é crescente entre mulheres e meninas, impulsionado por iniciativas de divulgação científica e programas de incentivo [2]. 
+
+Há limitação de dados mais específicos sobre a proporção de gênero entre os entusiastas da astronomia no Brasil. 
+
+É importante ressaltar que o interesse pela astronomia deve transcender o gênero e esforços contínuos podem promover a igualdade de oportunidades e representação na área.
 
 ## Nível de Escolaridade
 
-Na educação básica, a Astronomia desperta curiosidade enquanto no ensino superior é objeto de estudo formal, conforme pesquisa [2] sobre temas e conteúdos em Astronomia na pós-graduação no Brasil. Pessoas com maior nível de escolaridade podem ter mais ferramentas para aprofundar seus conhecimentos, mas o fascínio pelo universo tem atraído pessoas com diferentes níveis de instrução. Muitos entusiastas aprendem de forma autodidata, o que é facilitado para pessoas com maior nível de escolaridade, os quais possuem mais recursos e ferramentas para aprofundar conhecimentos.
-
-Convém lembrar que a diversidade racial e étnica é ainda mais limitada nas comunidades profissionais estudadas [2][4].
+**Na educação básica, a Astronomia desperta curiosidade enquanto no ensino superior é objeto de estudo formal**, conforme pesquisa [2] sobre temas e conteúdos em Astronomia na pós-graduação no Brasil. Pessoas com maior nível de escolaridade podem ter mais ferramentas para aprofundar seus conhecimentos, mas o fascínio pelo universo tem atraído pessoas com diferentes níveis de instrução. Muitos entusiastas aprendem de forma autodidata, o que é facilitado para pessoas com maior nível de escolaridade, os quais possuem mais recursos e ferramentas para aprofundar conhecimentos.
 
 ## Fluência em Outros Idiomas
 
-Não foram encontrados dados específicos nas fontes consultadas que relacionem diretamente o interesse por astronomia com a fluência em outros idiomas na população brasileira em geral. Bom lembrar, no entanto, que grande parte da literatura científica e das descobertas recentes são publicadas em inglês. É razoável, portanto, inferir que indivíduos com maior interesse têm algum nível de fluência neste idioma.
+Não foram encontrados dados específicos nas fontes consultadas que relacionem diretamente o interesse por astronomia com a fluência em outros idiomas na população brasileira em geral. Bom lembrar, no entanto, que **grande parte da literatura científica e das descobertas recentes são publicadas em inglês**. É razoável, portanto, inferir que **indivíduos com maior interesse têm algum nível de fluência neste idioma.**
 
-A comunidade profissional de astronomia é inerentemente internacional, como sugerido pela natureza das publicações e colaborações [1][4], o que reforça a importância do inglês para pesquisadores e profissionais. Essa distinção entre o público geral e a comunidade de pesquisa pode indicar uma barreira linguística para o acesso a informações científicas avançadas.
+A comunidade profissional de astronomia é inerentemente internacional, como sugerido pela natureza das publicações e colaborações [1][4], o que reforça a importância do inglês para pesquisadores e profissionais.
 
 ## Conclusão
 
-Embora dados específicos sobre o interesse pela Astronomia para cada categoria sejam limitados, é possível inferir que o interesse surge em diversas faixas etárias, com destaque para a infância e juventude, como sugerido por estudos de visitação [6]. Historicamente, há uma predominância masculina em áreas científicas, mas o interesse feminino pela astronomia é crescente [1][4]. O nível escolar não é um fator limitante para o interesse inicial, mas influencia a profundidade do conhecimento, com pesquisas específicas ocorrendo na pós-graduação [1].
+Embora dados específicos sobre o interesse pela Astronomia para cada categoria sejam limitados, é possível inferir que o interesse surge em diversas faixas etárias, com destaque para a **infância e juventude**, como sugerido por estudos de visitação [1]. Historicamente, há uma **predominância masculina em áreas científicas**, mas o interesse feminino pela astronomia é crescente [2]. O nível escolar não é um fator limitante para o interesse inicial, mas influencia a profundidade do conhecimento, com pesquisas específicas ocorrendo na pós-graduação.
 
-A fluência em outros idiomas, especialmente o inglês, pode ser mais comum entre aqueles com um interesse mais aprofundado, dada a natureza internacional da pesquisa. A comunidade acadêmica enfrenta desafios significativos de diversidade em termos de gênero e, principalmente, raça e etnia [2][4].
-
-Conclui-se que mais pesquisas específicas são necessárias para traçar um perfil mais detalhado e preciso dos entusiastas da astronomia no Brasil.
+A fluência em outros idiomas, especialmente o inglês, pode ser mais comum entre aqueles com um interesse mais aprofundado, dada a natureza internacional da pesquisa. 
 
 ## Bibliografia
 
@@ -61,6 +64,7 @@ Conclui-se que mais pesquisas específicas são necessárias para traçar um per
 5. Silva, R. P., Bretones, P. S., & Pereira, D. (2022). *Temas e conteúdos de Astronomia em programas de pós-graduação stricto sensu no Brasil*. *Cadernos de História da Educação*, 21. Disponível em: [https://www.scielo.br/j/ciedu/a/Z455phxnHnnBG5J7syyrrzw/](https://www.scielo.br/j/ciedu/a/Z455phxnHnnBG5J7syyrrzw/)
 
 
+## Histórico de versão
 
 | Versão | Alteração | Responsável | Data |
 | - | - | - | - |
