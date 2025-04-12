@@ -68,7 +68,7 @@ Não foram identificadas dificuldades ou críticas por parte da usuária nesta v
 
 Abaixo, no vídeo 1, está a gravação da reunião de validação do protótipo de alta fidelidade.
 
-**Vídeo 1: Validação do Protótipo
+**Vídeo 1: Validação do [Protótipo](Base/DesignSprint/Prototipo.md)
 
 <iframe width="1321" height="743" src="https://www.youtube.com/embed/XJielH39rgI" title="Galáxia Conectada - Validação do Protótipo de Alta Fidelidade." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
