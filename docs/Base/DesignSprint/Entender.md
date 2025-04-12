@@ -46,7 +46,7 @@ Para aprofundar o entendimento sobre o projeto, foram aplicadas as seguintes té
 
 - **Objetivo**: Oorganizar as ideias iniciais junto com as funcionalidades desejadas e os temas de interesse.
 
-O artefato completo se encontra em [Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md)
+O artefato completo se encontra em [Brainstorming](Base/ArtefatoGeneralista/BrainStorm.md)
 
 <details>
   <summary size="20"><b> Apresentação do brainstorming </b></summary> 
@@ -70,7 +70,7 @@ Abaixo, está o mapa mental criado:
 
 - **Objetivo**: Representar visualmente os envolvidos, as interações, os contextos e os desafios do projeto de forma mais livre e interpretativa.
 
-O artefato completo se encontra em [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md)
+O artefato completo se encontra em [Rich Picture](Base/ArtefatoGeneralista/RichPicture.md)
 
 <details>
   <summary size="20"><b> Apresentação do Rich Picture </b></summary> 
@@ -91,29 +91,29 @@ O artefato completo se encontra em [Rich Picture](Base/ElicitacaoRequisitos/Rich
 
   - **Objetivos**: Análise de sites e portais semelhantes, como NASA Science, EarthSky, Astronomia no Zênite e Céu Profundo e avaliar os seus conteúdos, recursos interativos e funcionalidades oferecidas. Os pontos positivos poderão ser utilizados no desenvolvimento da **Galáxia Conectada**, enquanto os negativos serão evitados.
 
-Para acessar o documento do geral, clique aqui: [Benchmarking](Base/ElicitacaoRequisitos/Benchmarking/Benchmarking.md) 
+Para acessar o documento do geral, clique aqui: [Benchmarking](Base/IniciativaExtra/Benchmarking/Benchmarking.md) 
 
 Para verificar o benchmarking dos sites com base nas categorias analisadas:
 
-- [Divulgação Científica](Base/ElicitacaoRequisitos/Benchmarking/DivulgacaoCientifica.md)
-- [Fóruns](Base/ElicitacaoRequisitos/Benchmarking/Foruns.md)
-- [Plataformas Educacionais](Base/ElicitacaoRequisitos/Benchmarking/PlataformasEducacionais.md)
-- [Animações](Base/ElicitacaoRequisitos/Benchmarking/Animacoes.md)
-- [Jogos](Base/ElicitacaoRequisitos/Benchmarking/Jogos.md)
-- [Promoções](Base/ElicitacaoRequisitos/Benchmarking/Promocoes.md)
+- [Divulgação Científica](Base/IniciativaExtra/Benchmarking/DivulgacaoCientifica.md)
+- [Fóruns](Base/IniciativaExtra/Benchmarking/Foruns.md)
+- [Plataformas Educacionais](Base/IniciativaExtra/Benchmarking/PlataformasEducacionais.md)
+- [Animações](Base/IniciativaExtra/Benchmarking/Animacoes.md)
+- [Jogos](Base/IniciativaExtra/Benchmarking/Jogos.md)
+- [Promoções](Base/IniciativaExtra/Benchmarking/Promocoes.md)
 
 
 ## 👤 Questionário 
 
 - **Objetivo**: Obter dados e informações sobre os ponteciais usuários, como a faixa etária mais frequênte, grau de de ensino e outras informações.
 
-- Para acessar os dados e resultados do questionário, clique em [Questionário](Base/ElicitacaoRequisitos/Questionário.md) 
+- Para acessar os dados e resultados do questionário, clique em [Questionário](Base/IniciativaExtra/Questionário.md) 
 
 ## ⚙️ Pesquisa sobre o perfil do usuário
 
 - **Objetivo:** Ajudar a compreender quem é o público alvo da plataforma.
 
-- Para acessar a pesquisa, cique aqui [Pesquisa sobre o perfil dos usuários](Base/ElicitacaoRequisitos/AnalisePerfil.md)
+- Para acessar a pesquisa, cique aqui [Pesquisa sobre o perfil dos usuários](Base/IniciativaExtra/AnalisePerfil.md)
 
 ## 📋 5W + 2H
 
@@ -121,7 +121,7 @@ Para verificar o benchmarking dos sites com base nas categorias analisadas:
 
 O 5W + 2H auxiliou na estruturação e na clareza do escopo inicial,uma queve ofereceu uma visão ampla dos principais aspectos do projeto. Além disso, ajudou a identificar o propósito do projeto, seus objetivos, público-alvo e possíveis formas de implementação.
 
- Para acessar o artefato do 5W + 2H, clique aqui: [5W+2H](Base/ElicitacaoRequisitos/5W2H.md)
+ Para acessar o artefato do 5W + 2H, clique aqui: [5W+2H](Base/ArtefatoGeneralista/5W2H.md)
 
  ## Ideais Para o Projeto Após Essa Fase
 
