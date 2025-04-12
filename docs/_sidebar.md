@@ -14,12 +14,12 @@
     - [1.1.5 Teste(Validação)](Base/DesignSprint/TesteValidacao.md)
 
   * 1.2. Artefato Generalista
-    - [1.2.1 Brainstorming](Base/ElicitacaoRequisitos/BrainStorm.md)
-    - [1.2.2 Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md) 
-    - [1.2.3 5W+2H](Base/ElicitacaoRequisitos/5W2H.md)
-    - [1.2.4 Diagrama de Ishikawa](Base/ElicitacaoRequisitos/DiagramaIshikawa.md)
-    - [1.2.5 Glossário](Base/ElicitacaoRequisitos/glossario.md)
-    - [1.2.6 Estimativas](Base/ElicitacaoRequisitos/Estimativas.md)
+    - [1.2.1 Brainstorming](Base/ArtefatoGeneralista/BrainStorm.md)
+    - [1.2.2 Rich Picture](Base/ArtefatoGeneralista/RichPicture.md) 
+    - [1.2.3 5W+2H](Base/ArtefatoGeneralista/5W2H.md)
+    - [1.2.4 Diagrama de Ishikawa](Base/ArtefatoGeneralista/DiagramaIshikawa.md)
+    - [1.2.5 Glossário](Base/ArtefatoGeneralista/glossario.md)
+    - [1.2.6 Estimativas](Base/ArtefatoGeneralista/Estimativas.md)
 
   * 1.3. Modelagem BPMN
     - [1.3.1 Metodologia + BPMN](Base/ElicitacaoRequisitos/AbordagemMetodologica.md)
