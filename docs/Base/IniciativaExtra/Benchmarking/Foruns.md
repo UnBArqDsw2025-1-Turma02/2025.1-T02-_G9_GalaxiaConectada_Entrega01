@@ -147,7 +147,6 @@
 
 | Código | Requisito Não Funcional                                                             | Objetivo                                                                           | Origem                 |
 |--------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------|
-
 | RNF01  | O sistema deve ter mecanismos de moderação, como denúncias e aprovação de conteúdo. | Manter um ambiente seguro, focado e com conteúdo relevante.                       | Reddit / Stack Overflow|
 | RNF02  | O sistema deve exibir conteúdo hierarquicamente organizado (por tópicos e tags).    | Facilitar a navegação e localização de discussões.                                | Stack Overflow         |
 | RNF03  | O sistema deve ser acessível, seguindo padrões como WCAG 2.1.                       | Incluir usuários com deficiência.                                                 | Quora / Stack Overflow |
