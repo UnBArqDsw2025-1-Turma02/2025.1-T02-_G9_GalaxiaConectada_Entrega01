@@ -15,13 +15,13 @@
 
 O **Rich Picture** [1](#ref1) é uma técnica visual utilizada para representar, de forma simbólica, a compreensão de um problema, sistema ou situação complexa. Com isso, ele permite que as ideias, os sentimentos e os conflitos sejam expressos por meio de desenhos, ícones e palavras, o que facilita a comunicação entre diferentes partes interessadas de um projeto. 
 
-Essa abordagem é especialmente útil em fases iniciais de análise de sistemas, pois incentiva a reflexão e o compartilhamento de múltiplos pontos de vista. Segundo o artigo [What are rich pictures?](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/rich-pictures) uma ferramenta eficaz para desenhar e entender sistemas complexos por meio de diagramas que integram aspectos técnicos e humanos. No contexto do desenvolvimento da plataforma Galáxia Conectada, essa técnica foi essencial para organizar visualmente os principais elementos e relacionamentos do sistema idealizado após o [brainstorming](docs/Base/ElicitacaoRequisitos/BrainStorm.md) 
+Essa abordagem é especialmente útil em fases iniciais de análise de sistemas, pois incentiva a reflexão e o compartilhamento de múltiplos pontos de vista. Segundo o artigo [What are rich pictures?](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/rich-pictures) uma ferramenta eficaz para desenhar e entender sistemas complexos por meio de diagramas que integram aspectos técnicos e humanos. No contexto do desenvolvimento da plataforma Galáxia Conectada, essa técnica foi essencial para organizar visualmente os principais elementos e relacionamentos do sistema idealizado após o [brainstorming](Base/ArtefatoGeneralista/BrainStorm.md) 
 
 ## Objetivos
 
 O Rich Picture tem como principal objetivo representar visualmente a compreensão inicial do escopo e dos principais elementos do sistema Galáxia Conectada. Com isso, os principais objetivos são:
 
-- Traduzir de forma simbólica as ideias geradas durante a atividade do [brainstorming](docs/Base/ElicitacaoRequisitos/BrainStorm.md).
+- Traduzir de forma simbólica as ideias geradas durante a atividade do [brainstorming](Base/ArtefatoGeneralista/BrainStorm.md).
 
 - Identificar as relações entre os usuários, funcionalidades e informações dentro da plataforma.
 
@@ -29,7 +29,7 @@ O Rich Picture tem como principal objetivo representar visualmente a compreensã
 
 ## Metodologia
 
-Após o conjunto de ideias formuladas e coletadas durante a atividade de [brainstorming](docs/Base/ElicitacaoRequisitos/BrainStorm.md), o **Rich Picture** foi elaborado com o intuito de identificar como essas ideias seriam contempladas dentro da estrutura do sistema **Galáxia Conectada**.
+Após o conjunto de ideias formuladas e coletadas durante a atividade de [brainstorming](Base/ArtefatoGeneralista/BrainStorm.md), o **Rich Picture** foi elaborado com o intuito de identificar como essas ideias seriam contempladas dentro da estrutura do sistema **Galáxia Conectada**.
 
  Com isso, a sua elaboração ocorreu durante uma tarde ao utilizar a plataforma [draw.io](https://app.diagrams.net/), a qual possibilita a criação de esquemas visuais. Ele foi pensado com foco nos diversos atores que irão interagir com a plataforma, incluindo usuários finais, desenvolvedores e administradores. Além disso, foram representadas interações com fontes externas, como sites de divulgação científica e repositórios de artigos.
 
