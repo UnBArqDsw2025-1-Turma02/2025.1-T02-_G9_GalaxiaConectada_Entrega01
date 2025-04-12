@@ -19,7 +19,7 @@ A etapa de **Decisão (Decision)** do Design Sprint tem como objetivo selecionar
 
 Com base no vídeo [Guia do Storyboad: Como, onde e por que fazer?](https://www.youtube.com/watch?v=Uhf4Kv-aVyM), os principais objetivos ao executar esta etapa são:
 
-- Elaborar um storyboard para comunicar a solução apresentada no [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md);
+- Elaborar um storyboard para comunicar a solução apresentada no [Rich Picture](Base/ArtefatoGeneralista/RichPicture.md);
 - Estruturar o fluxo principal de interação da plataforma;
 - Analisar como o Storyboard pode guiar a criação do protótipo;
 - Garantir coesão e clareza na experiência do usuário.
