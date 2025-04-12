@@ -13,18 +13,18 @@
 
 ## Introdução
 
-Tendo em base [O que é Design Sprint e como aplicar o método para testar e validar ideias](https://pm3.com.br/blog/design-sprint/), a etapa **Esboçar (Sketch)** do Design Sprint tem como propósito transformar as ideias conceituais obtidas na fase **Entender (Unpack)** em representações visuais tangíveis. Nesta fase, utiliza-se a criatividade para explorar múltiplas soluções e representações visuais de forma rápida e prática.
+Tendo em base [O que é Design Sprint e como aplicar o método para testar e validar ideias](https://pm3.com.br/blog/design-sprint/), a etapa **Esboçar (Sketch)** do Design Sprint tem como propósito transformar as ideias conceituais obtidas na fase **[Entender (Unpack)](Base/DesignSprint/Entender.md)** em representações visuais tangíveis. Nesta fase, utiliza-se a criatividade para explorar múltiplas soluções e representações visuais de forma rápida e prática.
 
 ## Objetivos
 
 - Usar a criatividade na busca por planejamento do projeto;
 - Traduzir ideias em representações visuais compreensíveis;
-- Utilizar o **Rich Picture** como referência visual inicial;
+- Utilizar o **[Rich Picture](Base/ArtefatoGeneralista/RichPicture.md)** como referência visual inicial;
 - Preparar material visual para a etapa de decisão.
 
 ## Referências Visuais e Inspirações
 
-Para guiar os esboços, foram consideradas inspirações de sites e portais analisados na etapa anterior (Benchmarking), como:
+Para guiar os esboços, foram consideradas inspirações de sites e portais analisados na etapa anterior ([Benchmarking](Base/IniciativaExtra/Benchmarking/Benchmarking.md), como:
 
 - NASA Science
 - EarthSky
@@ -64,7 +64,7 @@ Abaixo se encontra o rich picture:
     <br>
 </div>
 
-**Observação:** Caso deseje ler o artefato completo, clique em [Rich Picture](Base/ElicitacaoRequisitos/RichPicture.md)
+**Observação:** Caso deseje ler o artefato completo, clique em [Rich Picture](Base/ArtefatoGeneralista/RichPicture.md)
 
 ## Ideias para a Etapa de Decidir
 
